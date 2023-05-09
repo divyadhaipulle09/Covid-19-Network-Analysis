@@ -1,0 +1,3764 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-22">
+    <creator>NetworkX 2.8.4</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="covid19" label="covid19" />
+      <node id="cases" label="cases" />
+      <node id="global" label="global" />
+      <node id="pandemic" label="pandemic" />
+      <node id="news" label="news" />
+      <node id="coronavirus" label="coronavirus" />
+      <node id="new" label="new" />
+      <node id="24" label="24" />
+      <node id="hours" label="hours" />
+      <node id="last" label="last" />
+      <node id="positive" label="positive" />
+      <node id="died" label="died" />
+      <node id="vaccine" label="vaccine" />
+      <node id="total" label="total" />
+      <node id="number" label="number" />
+      <node id="americans" label="americans" />
+      <node id="worldwide" label="worldwide" />
+      <node id="abo" label="abo" />
+      <node id="deaths" label="deaths" />
+      <node id="reported" label="reported" />
+      <node id="due" label="due" />
+      <node id="spread" label="spread" />
+      <node id="covid" label="covid" />
+      <node id="read" label="read" />
+      <node id="cdc" label="cdc" />
+      <node id="death" label="death" />
+      <node id="toll" label="toll" />
+      <node id="tested" label="tested" />
+      <node id="tally" label="tally" />
+      <node id="patients" label="patients" />
+      <node id="amp" label="amp" />
+      <node id="tests" label="tests" />
+      <node id="active" label="active" />
+      <node id="more" label="more" />
+      <node id="crisis" label="crisis" />
+      <node id="recovery" label="recovery" />
+      <node id="rate" label="rate" />
+      <node id="singleday" label="singleday" />
+      <node id="spike" label="spike" />
+      <node id="samples" label="samples" />
+      <node id="india" label="india" />
+      <node id="amid" label="amid" />
+      <node id="testing" label="testing" />
+      <node id="today" label="today" />
+      <node id="trump" label="trump" />
+      <node id="fight" label="fight" />
+      <node id="taking" label="taking" />
+      <node id="live" label="live" />
+      <node id="updates" label="updates" />
+      <node id="slow" label="slow" />
+      <node id="august" label="august" />
+      <node id="2020" label="2020" />
+      <node id="wear" label="wear" />
+      <node id="mask" label="mask" />
+      <node id="biden" label="biden" />
+      <node id="impact" label="impact" />
+      <node id="help" label="help" />
+      <node id="single" label="single" />
+      <node id="day" label="day" />
+      <node id="identify" label="identify" />
+      <node id="risk" label="risk" />
+      <node id="sooner" label="sooner" />
+      <node id="selfreporting" label="selfreporting" />
+      <node id="kids" label="kids" />
+      <node id="social" label="social" />
+      <node id="distancing" label="distancing" />
+      <node id="fresh" label="fresh" />
+      <node id="symptoms" label="symptoms" />
+      <node id="daily" label="daily" />
+      <node id="even" label="even" />
+      <node id="recovered" label="recovered" />
+      <node id="need" label="need" />
+      <node id="plasma" label="plasma" />
+      <node id="district" label="district" />
+      <node id="reports" label="reports" />
+      <node id="test" label="test" />
+      <node id="indias" label="indias" />
+      <node id="childern" label="childern" />
+      <node id="crosses" label="crosses" />
+      <node id="hrs" label="hrs" />
+      <node id="lockdown" label="lockdown" />
+      <node id="protests" label="protests" />
+      <node id="outbreak" label="outbreak" />
+      <node id="case" label="case" />
+      <node id="zealand" label="zealand" />
+      <node id="novel" label="novel" />
+      <node id="post" label="post" />
+      <node id="state" label="state" />
+      <node id="face" label="face" />
+      <node id="public" label="public" />
+      <node id="health" label="health" />
+      <node id="negative" label="negative" />
+      <node id="corona" label="corona" />
+      <node id="response" label="response" />
+      <node id="wearing" label="wearing" />
+      <node id="full" label="full" />
+      <node id="video" label="video" />
+      <node id="fatality" label="fatality" />
+      <node id="preprint" label="preprint" />
+      <node id="masks" label="masks" />
+      <node id="around" label="around" />
+      <node id="world" label="world" />
+      <node id="hospital" label="hospital" />
+      <node id="call" label="call" />
+      <node id="storm" label="storm" />
+      <node id="gt" label="gt" />
+      <node id="patient" label="patient" />
+      <node id="30days30videos" label="30days30videos" />
+      <node id="first" label="first" />
+      <node id="county" label="county" />
+      <node id="confirmed" label="confirmed" />
+      <node id="time" label="time" />
+      <node id="19" label="19" />
+      <node id="get" label="get" />
+      <node id="pima" label="pima" />
+      <node id="arizona" label="arizona" />
+      <node id="chief" label="chief" />
+      <node id="minister" label="minister" />
+      <node id="york" label="york" />
+      <node id="mental" label="mental" />
+      <node id="madhya" label="madhya" />
+      <node id="pradesh" label="pradesh" />
+      <node id="harris" label="harris" />
+      <node id="update" label="update" />
+      <node id="good" label="good" />
+      <node id="white" label="white" />
+      <node id="house" label="house" />
+      <node id="via" label="via" />
+      <node id="226" label="226" />
+      <node id="infection" label="infection" />
+      <node id="take" label="take" />
+      <node id="look" label="look" />
+      <node id="uk" label="uk" />
+      <node id="normal" label="normal" />
+      <node id="rises" label="rises" />
+      <node id="vaccines" label="vaccines" />
+      <node id="report" label="report" />
+      <node id="boris" label="boris" />
+      <node id="johnson" label="johnson" />
+      <node id="fitness" label="fitness" />
+      <node id="united" label="united" />
+      <node id="states" label="states" />
+      <node id="situation" label="situation" />
+      <node id="many" label="many" />
+      <node id="people" label="people" />
+      <node id="records" label="records" />
+      <node id="rise" label="rise" />
+      <node id="million" label="million" />
+      <node id="donald" label="donald" />
+      <node id="highest" label="highest" />
+      <node id="goals" label="goals" />
+      <node id="secondpeak" label="secondpeak" />
+      <node id="secondwave" label="secondwave" />
+      <node id="225" label="225" />
+      <node id="odisha" label="odisha" />
+      <node id="young" label="young" />
+      <node id="andhra" label="andhra" />
+      <node id="221" label="221" />
+      <node id="vegan" label="vegan" />
+      <node id="back" label="back" />
+      <node id="school" label="school" />
+      <node id="updated" label="updated" />
+      <node id="223" label="223" />
+      <node id="himachal" label="himachal" />
+      <node id="alert" label="alert" />
+      <node id="hope" label="hope" />
+      <node id="blood" label="blood" />
+      <node id="recoveries" label="recoveries" />
+      <node id="affected" label="affected" />
+      <node id="gop" label="gop" />
+      <node id="lakh" label="lakh" />
+      <node id="covidー19" label="covidー19" />
+      <node id="top" label="top" />
+      <node id="10" label="10" />
+      <node id="home" label="home" />
+      <node id="johns" label="johns" />
+      <node id="hopkins" label="hopkins" />
+      <node id="care" label="care" />
+      <node id="positivity" label="positivity" />
+      <node id="like" label="like" />
+      <node id="loved" label="loved" />
+      <node id="ones" label="ones" />
+      <node id="messagetochristians" label="messagetochristians" />
+      <node id="karnataka" label="karnataka" />
+      <node id="cm" label="cm" />
+      <node id="229" label="229" />
+      <node id="treatment" label="treatment" />
+      <node id="country" label="country" />
+      <node id="mark" label="mark" />
+      <node id="tamil" label="tamil" />
+      <node id="nadu" label="nadu" />
+      <node id="per" label="per" />
+      <node id="pm" label="pm" />
+      <node id="modi" label="modi" />
+      <node id="virus" label="virus" />
+      <node id="224" label="224" />
+      <node id="dr" label="dr" />
+      <node id="fauci" label="fauci" />
+      <node id="south" label="south" />
+      <node id="korea" label="korea" />
+      <node id="updatesindia" label="updatesindia" />
+      <node id="dominic" label="dominic" />
+      <node id="cummings" label="cummings" />
+      <node id="stay" label="stay" />
+      <node id="safe" label="safe" />
+      <node id="latest" label="latest" />
+      <node id="todays" label="todays" />
+      <node id="maharashtra" label="maharashtra" />
+      <node id="police" label="police" />
+      <node id="die" label="die" />
+      <node id="component" label="component" />
+      <node id="every" label="every" />
+      <node id="infections" label="infections" />
+      <node id="july" label="july" />
+      <node id="week" label="week" />
+      <node id="know" label="know" />
+      <node id="numbers" label="numbers" />
+      <node id="second" label="second" />
+      <node id="wave" label="wave" />
+      <node id="since" label="since" />
+      <node id="ministry" label="ministry" />
+      <node id="conducted" label="conducted" />
+      <node id="supreme" label="supreme" />
+      <node id="court" label="court" />
+      <node id="till" label="till" />
+      <node id="odishas" label="odishas" />
+      <node id="including" label="including" />
+      <node id="across" label="across" />
+      <node id="related" label="related" />
+      <node id="herd" label="herd" />
+      <node id="immunity" label="immunity" />
+      <node id="personnel" label="personnel" />
+      <node id="supply" label="supply" />
+      <node id="chain" label="chain" />
+      <node id="78761" label="78761" />
+      <node id="days" label="days" />
+      <node id="179200" label="179200" />
+      <node id="march" label="march" />
+      <node id="media" label="media" />
+      <node id="amit" label="amit" />
+      <node id="shah" label="shah" />
+      <node id="west" label="west" />
+      <node id="bengal" label="bengal" />
+      <node id="save" label="save" />
+      <node id="lives" label="lives" />
+      <node id="dying" label="dying" />
+      <node id="gon" label="gon" />
+      <node id="na" label="na" />
+      <node id="mers" label="mers" />
+      <node id="infected" label="infected" />
+      <node id="watch" label="watch" />
+      <node id="growth" label="growth" />
+      <node id="still" label="still" />
+      <node id="government" label="government" />
+      <node id="type" label="type" />
+      <node id="wake" label="wake" />
+      <node id="ove" label="ove" />
+      <node id="fighting" label="fighting" />
+      <node id="may" label="may" />
+      <node id="ghana" label="ghana" />
+      <node id="portland" label="portland" />
+      <node id="make" label="make" />
+      <node id="sure" label="sure" />
+      <node id="705" label="705" />
+      <node id="singh" label="singh" />
+      <node id="chouhan" label="chouhan" />
+      <node id="go" label="go" />
+      <node id="carehomeicide" label="carehomeicide" />
+      <node id="cent" label="cent" />
+      <node id="coronavirusoutbreak" label="coronavirusoutbreak" />
+      <node id="shivraj" label="shivraj" />
+      <node id="1007" label="1007" />
+      <node id="local" label="local" />
+      <node id="times" label="times" />
+      <node id="cure" label="cure" />
+      <node id="wash" label="wash" />
+      <node id="hands" label="hands" />
+      <node id="100000" label="100000" />
+      <node id="two" label="two" />
+      <node id="weeks" label="weeks" />
+      <node id="coronavirusupdates" label="coronavirusupdates" />
+      <node id="100" label="100" />
+      <node id="944" label="944" />
+      <node id="looks" label="looks" />
+      <node id="relief" label="relief" />
+      <node id="12" label="12" />
+      <node id="residents" label="residents" />
+      <node id="insurance" label="insurance" />
+      <node id="dead" label="dead" />
+      <node id="would" label="would" />
+      <node id="workers" label="workers" />
+      <node id="college" label="college" />
+      <node id="football" label="football" />
+      <node id="discharges" label="discharges" />
+      <node id="clinical" label="clinical" />
+      <node id="trials" label="trials" />
+      <node id="dies" label="dies" />
+      <node id="prime" label="prime" />
+      <node id="brother" label="brother" />
+      <node id="republican" label="republican" />
+      <node id="bill" label="bill" />
+      <node id="gates" label="gates" />
+      <node id="work" label="work" />
+      <node id="data" label="data" />
+      <node id="treat" label="treat" />
+      <node id="pa" label="pa" />
+      <node id="count" label="count" />
+      <node id="complete" label="complete" />
+      <node id="follow" label="follow" />
+      <node id="covid19uk" label="covid19uk" />
+      <node id="941" label="941" />
+      <node id="708" label="708" />
+      <node id="handling" label="handling" />
+      <node id="civil" label="civil" />
+      <node id="aviation" label="aviation" />
+      <node id="803" label="803" />
+      <node id="battle" label="battle" />
+      <node id="increase" label="increase" />
+      <node id="telangana" label="telangana" />
+      <node id="172606" label="172606" />
+      <node id="hoax" label="hoax" />
+      <node id="recorded" label="recorded" />
+      <node id="said" label="said" />
+      <node id="northern" label="northern" />
+      <node id="ireland" label="ireland" />
+      <node id="also" label="also" />
+      <node id="putin" label="putin" />
+      <node id="says" label="says" />
+      <node id="one" label="one" />
+      <node id="coronaviruspandemic" label="coronaviruspandemic" />
+      <node id="contacts" label="contacts" />
+      <node id="los" label="los" />
+      <node id="angeles" label="angeles" />
+      <node id="disease" label="disease" />
+      <node id="usa" label="usa" />
+      <node id="facility" label="facility" />
+      <node id="please" label="please" />
+      <node id="shows" label="shows" />
+      <node id="guidelines" label="guidelines" />
+      <node id="air" label="air" />
+      <node id="hand" label="hand" />
+      <node id="sanitizer" label="sanitizer" />
+      <node id="64553" label="64553" />
+      <node id="coverings" label="coverings" />
+      <node id="sarscov2" label="sarscov2" />
+      <node id="caused" label="caused" />
+      <node id="26" label="26" />
+      <node id="worlds" label="worlds" />
+      <node id="task" label="task" />
+      <node id="force" label="force" />
+      <node id="surge" label="surge" />
+      <node id="suspected" label="suspected" />
+      <node id="era" label="era" />
+      <node id="changed" label="changed" />
+      <node id="matter" label="matter" />
+      <node id="despite" label="despite" />
+      <node id="study" label="study" />
+      <node id="among" label="among" />
+      <node id="administration" label="administration" />
+      <node id="nyc" label="nyc" />
+      <node id="psychotherapy" label="psychotherapy" />
+      <node id="thanks" label="thanks" />
+      <node id="immune" label="immune" />
+      <node id="system" label="system" />
+      <node id="861" label="861" />
+      <node id="948" label="948" />
+      <node id="status" label="status" />
+      <node id="officials" label="officials" />
+      <node id="steelguru" label="steelguru" />
+      <node id="link" label="link" />
+      <node id="looking" label="looking" />
+      <node id="forward" label="forward" />
+      <node id="ne" label="ne" />
+      <node id="trial" label="trial" />
+      <node id="aug22" label="aug22" />
+      <node id="curb" label="curb" />
+      <node id="cause" label="cause" />
+      <node id="children" label="children" />
+      <node id="covering" label="covering" />
+      <node id="contact" label="contact" />
+      <node id="tracing" label="tracing" />
+      <node id="rajasthan" label="rajasthan" />
+      <node id="bulletin" label="bulletin" />
+      <node id="35" label="35" />
+      <node id="186855" label="186855" />
+      <node id="protect" label="protect" />
+      <node id="made" label="made" />
+      <node id="blog" label="blog" />
+      <node id="dated" label="dated" />
+      <node id="months" label="months" />
+      <node id="passed" label="passed" />
+      <node id="away" label="away" />
+      <node id="ago" label="ago" />
+      <node id="safety" label="safety" />
+      <node id="associated" label="associated" />
+      <node id="yesterday" label="yesterday" />
+      <node id="morning" label="morning" />
+      <node id="170415" label="170415" />
+      <node id="research" label="research" />
+      <node id="attention" label="attention" />
+      <node id="travellers" label="travellers" />
+      <node id="pan" label="pan" />
+      <node id="3rd" label="3rd" />
+      <node id="line" label="line" />
+      <node id="wearamask" label="wearamask" />
+      <node id="found" label="found" />
+      <node id="former" label="former" />
+      <node id="to" label="to" />
+      <node id="experts" label="experts" />
+      <node id="say" label="say" />
+      <node id="15th" label="15th" />
+      <node id="impacted" label="impacted" />
+      <node id="working" label="working" />
+      <node id="facilities" label="facilities" />
+      <node id="fielding" label="fielding" />
+      <node id="coach" label="coach" />
+      <node id="retweet" label="retweet" />
+      <node id="dist" label="dist" />
+      <node id="control" label="control" />
+      <node id="bhadraknergundi" label="bhadraknergundi" />
+      <node id="black" label="black" />
+      <node id="64399" label="64399" />
+      <node id="without" label="without" />
+      <node id="impacts" label="impacts" />
+      <node id="spanish" label="spanish" />
+      <node id="flu" label="flu" />
+      <node id="ram" label="ram" />
+      <node id="temple" label="temple" />
+      <node id="democrat" label="democrat" />
+      <node id="29" label="29" />
+      <node id="ave" label="ave" />
+      <node id="puducherry" label="puducherry" />
+      <node id="ctv" label="ctv" />
+      <node id="kindly" label="kindly" />
+      <node id="refer" label="refer" />
+      <node id="connection" label="connection" />
+      <node id="finds" label="finds" />
+      <node id="csse" label="csse" />
+      <node id="schools" label="schools" />
+      <node id="reopen" label="reopen" />
+      <node id="coronavirusuk" label="coronavirusuk" />
+      <node id="etimes" label="etimes" />
+      <node id="movie" label="movie" />
+      <node id="uttar" label="uttar" />
+      <node id="used" label="used" />
+      <node id="epaper" label="epaper" />
+      <node id="head" label="head" />
+      <node id="enough" label="enough" />
+      <node id="union" label="union" />
+      <node id="collegetalk" label="collegetalk" />
+      <node id="deadly" label="deadly" />
+      <node id="remote" label="remote" />
+      <node id="49931" label="49931" />
+      <node id="free" label="free" />
+      <node id="check" label="check" />
+      <node id="hyderabad" label="hyderabad" />
+      <node id="night" label="night" />
+      <node id="in" label="in" />
+      <node id="warning" label="warning" />
+      <node id="vast" label="vast" />
+      <node id="majority" label="majority" />
+      <node id="want" label="want" />
+      <node id="well" label="well" />
+      <node id="getting" label="getting" />
+      <node id="economy" label="economy" />
+      <node id="aug16" label="aug16" />
+      <node id="beat" label="beat" />
+      <node id="aka" label="aka" />
+      <node id="healthcare" label="healthcare" />
+      <node id="stop" label="stop" />
+      <node id="therapy" label="therapy" />
+      <node id="past" label="past" />
+      <node id="restrictions" label="restrictions" />
+      <node id="reopening" label="reopening" />
+      <node id="high" label="high" />
+      <node id="yester" label="yester" />
+      <node id="results" label="results" />
+      <node id="hazard" label="hazard" />
+      <node id="madhyapradesh" label="madhyapradesh" />
+      <node id="concerns" label="concerns" />
+      <node id="borisvoteofnoconfidence" label="borisvoteofnoconfidence" />
+      <node id="borishasfaileduk" label="borishasfaileduk" />
+      <node id="654" label="654" />
+      <node id="got" label="got" />
+      <node id="put" label="put" />
+      <node id="bignews" label="bignews" />
+      <node id="statistics" label="statistics" />
+      <node id="could" label="could" />
+      <node id="nursing" label="nursing" />
+      <node id="homes" label="homes" />
+      <node id="return" label="return" />
+      <node id="gopal" label="gopal" />
+      <node id="das" label="das" />
+      <node id="means" label="means" />
+      <node id="knew" label="knew" />
+      <node id="sign" label="sign" />
+      <node id="end" label="end" />
+      <node id="cross" label="cross" />
+      <node id="current" label="current" />
+      <node id="ganesh" label="ganesh" />
+      <node id="chaturthi" label="chaturthi" />
+      <node id="doctors" label="doctors" />
+      <node id="nurses" label="nurses" />
+      <node id="management" label="management" />
+      <node id="life" label="life" />
+      <node id="doom" label="doom" />
+      <node id="human" label="human" />
+      <node id="indiablooms" label="indiablooms" />
+      <node id="troubles" label="troubles" />
+      <node id="meditate" label="meditate" />
+      <node id="solutions" label="solutions" />
+      <node id="following" label="following" />
+      <node id="intensive" label="intensive" />
+      <node id="webinar" label="webinar" />
+      <node id="hit" label="hit" />
+      <node id="soon" label="soon" />
+      <node id="757" label="757" />
+      <node id="questions" label="questions" />
+      <node id="analysis" label="analysis" />
+      <node id="view" label="view" />
+      <node id="oxford" label="oxford" />
+      <node id="university" label="university" />
+      <node id="come" label="come" />
+      <node id="1376" label="1376" />
+      <node id="open" label="open" />
+      <node id="starhealthinsurance" label="starhealthinsurance" />
+      <node id="song" label="song" />
+      <node id="community" label="community" />
+      <node id="trend" label="trend" />
+      <node id="datasource" label="datasource" />
+      <node id="increased" label="increased" />
+      <node id="230" label="230" />
+      <node id="16th" label="16th" />
+      <node id="wales" label="wales" />
+      <node id="produced" label="produced" />
+      <node id="private" label="private" />
+      <node id="hospitals" label="hospitals" />
+      <node id="trust" label="trust" />
+      <node id="173128" label="173128" />
+      <node id="bve" label="bve" />
+      <node id="47704" label="47704" />
+      <node id="48661" label="48661" />
+      <node id="945" label="945" />
+      <node id="trace" label="trace" />
+      <node id="26th" label="26th" />
+      <node id="amidst" label="amidst" />
+      <node id="year" label="year" />
+      <node id="movementpass" label="movementpass" />
+      <node id="thread" label="thread" />
+      <node id="north" label="north" />
+      <node id="severe" label="severe" />
+      <node id="9845684754" label="9845684754" />
+      <node id="continues" label="continues" />
+      <node id="next" label="next" />
+      <node id="source" label="source" />
+      <node id="ipl" label="ipl" />
+      <node id="avoid" label="avoid" />
+      <node id="english" label="english" />
+      <node id="las" label="las" />
+      <node id="detected" label="detected" />
+      <node id="small" label="small" />
+      <node id="businesses" label="businesses" />
+      <node id="years" label="years" />
+      <node id="stands" label="stands" />
+      <node id="six" label="six" />
+      <node id="57982" label="57982" />
+      <node id="serum" label="serum" />
+      <node id="institute" label="institute" />
+      <node id="seems" label="seems" />
+      <node id="48916" label="48916" />
+      <node id="truth" label="truth" />
+      <node id="chains" label="chains" />
+      <node id="anyone" label="anyone" />
+      <node id="else" label="else" />
+      <node id="developments" label="developments" />
+      <node id="admitted" label="admitted" />
+      <node id="bbc" label="bbc" />
+      <node id="support" label="support" />
+      <node id="discuss" label="discuss" />
+      <node id="department" label="department" />
+      <node id="strain" label="strain" />
+      <node id="crossed" label="crossed" />
+      <node id="speedy" label="speedy" />
+      <node id="centre" label="centre" />
+      <node id="sounds" label="sounds" />
+      <node id="worldometer" label="worldometer" />
+      <node id="important" label="important" />
+      <node id="ever" label="ever" />
+      <node id="52050" label="52050" />
+      <node id="63489" label="63489" />
+      <node id="7days" label="7days" />
+      <node id="ill" label="ill" />
+      <node id="biggest" label="biggest" />
+      <node id="pande" label="pande" />
+      <node id="think" label="think" />
+      <node id="lord" label="lord" />
+      <node id="brought" label="brought" />
+      <node id="done" label="done" />
+      <node id="accelerated" label="accelerated" />
+      <node id="routine" label="routine" />
+      <node id="authorities" label="authorities" />
+      <node id="narendra" label="narendra" />
+      <node id="ganjam" label="ganjam" />
+      <node id="old" label="old" />
+      <node id="rapid" label="rapid" />
+      <node id="family" label="family" />
+      <node id="members" label="members" />
+      <node id="newspaper" label="newspaper" />
+      <node id="doesnt" label="doesnt" />
+      <node id="difference" label="difference" />
+      <node id="nritya" label="nritya" />
+      <node id="portal" label="portal" />
+      <node id="mandate" label="mandate" />
+      <node id="season" label="season" />
+      <node id="combat" label="combat" />
+      <node id="fund" label="fund" />
+      <node id="man" label="man" />
+      <node id="ministers" label="ministers" />
+      <node id="rest" label="rest" />
+      <node id="record" label="record" />
+      <node id="result" label="result" />
+      <node id="keep" label="keep" />
+      <node id="right" label="right" />
+      <node id="covidiots" label="covidiots" />
+      <node id="31" label="31" />
+      <node id="27th" label="27th" />
+      <node id="american" label="american" />
+      <node id="must" label="must" />
+      <node id="never" label="never" />
+      <node id="fire" label="fire" />
+      <node id="broke" label="broke" />
+      <node id="prevent" label="prevent" />
+      <node id="the" label="the" />
+      <node id="protesters" label="protesters" />
+      <node id="transmission" label="transmission" />
+      <node id="putins" label="putins" />
+      <node id="daughter" label="daughter" />
+      <node id="three" label="three" />
+      <node id="अन" label="अन" />
+      <node id="तह" label="तह" />
+      <node id="गड" label="गड" />
+      <node id="bsnlprideofindia" label="bsnlprideofindia" />
+      <node id="use" label="use" />
+      <node id="identif" label="identif" />
+      <node id="travelers" label="travelers" />
+      <node id="favorite" label="favorite" />
+      <node id="vacations" label="vacations" />
+      <node id="thing" label="thing" />
+      <node id="sick" label="sick" />
+      <node id="167749" label="167749" />
+      <node id="way" label="way" />
+      <node id="series" label="series" />
+      <node id="hard" label="hard" />
+      <node id="yediyurappa" label="yediyurappa" />
+      <node id="adults" label="adults" />
+      <node id="treating" label="treating" />
+      <node id="situations" label="situations" />
+      <node id="things" label="things" />
+      <node id="long" label="long" />
+      <node id="term" label="term" />
+      <node id="discharged" label="discharged" />
+      <node id="imposed" label="imposed" />
+      <node id="icmr" label="icmr" />
+      <node id="leader" label="leader" />
+      <node id="opposition" label="opposition" />
+      <node id="coronavirusstories" label="coronavirusstories" />
+      <node id="positives" label="positives" />
+      <node id="president" label="president" />
+      <node id="lakhs" label="lakhs" />
+      <node id="recoveriesdeaths" label="recoveriesdeaths" />
+      <node id="ratio" label="ratio" />
+      <node id="ganesha" label="ganesha" />
+      <node id="delhi" label="delhi" />
+      <node id="nhs" label="nhs" />
+      <node id="mortality" label="mortality" />
+      <node id="milestone" label="milestone" />
+      <node id="socialdistancing" label="socialdistancing" />
+      <node id="mandatory" label="mandatory" />
+      <node id="additional" label="additional" />
+      <node id="mahant" label="mahant" />
+      <node id="available" label="available" />
+      <node id="lost" label="lost" />
+      <node id="69878" label="69878" />
+      <node id="spreading" label="spreading" />
+      <node id="ids" label="ids" />
+      <node id="commuters" label="commuters" />
+      <node id="icu" label="icu" />
+      <node id="beds" label="beds" />
+      <node id="office" label="office" />
+      <node id="story" label="story" />
+      <node id="part" label="part" />
+      <node id="1030" label="1030" />
+      <node id="technology" label="technology" />
+      <node id="terrible" label="terrible" />
+      <node id="independence" label="independence" />
+      <node id="dominicummimgs" label="dominicummimgs" />
+      <node id="25" label="25" />
+      <node id="russia" label="russia" />
+      <node id="joe" label="joe" />
+      <node id="sending" label="sending" />
+      <node id="share" label="share" />
+      <node id="experiences" label="experiences" />
+      <node id="siddaramaiah" label="siddaramaiah" />
+      <node id="tracker" label="tracker" />
+      <node id="0550" label="0550" />
+      <node id="economic" label="economic" />
+      <node id="bsnl" label="bsnl" />
+      <node id="staff" label="staff" />
+      <node id="bs" label="bs" />
+      <node id="bjp" label="bjp" />
+      <node id="mp" label="mp" />
+      <node id="affect" label="affect" />
+      <node id="and" label="and" />
+      <node id="become" label="become" />
+      <node id="effects" label="effects" />
+      <node id="becomes" label="becomes" />
+      <node id="antibody" label="antibody" />
+      <node id="claims" label="claims" />
+      <node id="covid19india" label="covid19india" />
+      <node id="alan" label="alan" />
+      <node id="person" label="person" />
+      <node id="231" label="231" />
+      <node id="jajpurodisha" label="jajpurodisha" />
+      <node id="consecutive" label="consecutive" />
+      <node id="cov" label="cov" />
+      <node id="families" label="families" />
+      <node id="change" label="change" />
+      <node id="democrats" label="democrats" />
+      <node id="saturday" label="saturday" />
+      <node id="reaches" label="reaches" />
+      <node id="228" label="228" />
+      <node id="convalescent" label="convalescent" />
+      <node id="schoolsreopening" label="schoolsreopening" />
+      <node id="21st" label="21st" />
+      <node id="2nd" label="2nd" />
+      <node id="protocols" label="protocols" />
+      <node id="excess" label="excess" />
+      <node id="14" label="14" />
+      <node id="experience" label="experience" />
+      <node id="13th" label="13th" />
+      <node id="0800" label="0800" />
+      <node id="phase" label="phase" />
+      <node id="let" label="let" />
+      <node id="likely" label="likely" />
+      <node id="learn" label="learn" />
+      <node id="donation" label="donation" />
+      <node id="ri" label="ri" />
+      <node id="abve" label="abve" />
+      <node id="plandemic" label="plandemic" />
+      <node id="agenda21" label="agenda21" />
+      <node id="light" label="light" />
+      <node id="pushes" label="pushes" />
+      <node id="purpose" label="purpose" />
+      <node id="protest" label="protest" />
+      <node id="vladimir" label="vladimir" />
+      <node id="kind" label="kind" />
+      <node id="wondering" label="wondering" />
+      <node id="article" label="article" />
+      <node id="cas" label="cas" />
+      <node id="digital" label="digital" />
+      <node id="station" label="station" />
+      <node id="observed" label="observed" />
+      <node id="cuttack" label="cuttack" />
+      <node id="contract" label="contract" />
+      <node id="medical" label="medical" />
+      <node id="nutritious" label="nutritious" />
+      <node id="food" label="food" />
+      <node id="changing" label="changing" />
+      <node id="china" label="china" />
+      <node id="of" label="of" />
+      <node id="ji" label="ji" />
+      <node id="dashboard" label="dashboard" />
+      <node id="lockdowns" label="lockdowns" />
+      <node id="matters" label="matters" />
+      <node id="digest" label="digest" />
+      <node id="network" label="network" />
+      <node id="values" label="values" />
+      <node id="episode" label="episode" />
+      <node id="reconnect" label="reconnect" />
+      <node id="according" label="according" />
+      <node id="going" label="going" />
+      <node id="releasing" label="releasing" />
+      <node id="managing" label="managing" />
+      <node id="started" label="started" />
+      <node id="america" label="america" />
+      <node id="antibodies" label="antibodies" />
+      <node id="online" label="online" />
+      <node id="classes" label="classes" />
+      <node id="opportunity" label="opportunity" />
+      <node id="deat" label="deat" />
+      <node id="astrazeneca" label="astrazeneca" />
+      <node id="understand" label="understand" />
+      <node id="61379" label="61379" />
+      <node id="supporters" label="supporters" />
+      <node id="9999" label="9999" />
+      <node id="activity" label="activity" />
+      <node id="bridge" label="bridge" />
+      <node id="utterly" label="utterly" />
+      <node id="incompetent" label="incompetent" />
+      <node id="together" label="together" />
+      <node id="california" label="california" />
+      <node id="10am" label="10am" />
+      <node id="rising" label="rising" />
+      <node id="lab" label="lab" />
+      <node id="16" label="16" />
+      <node id="21" label="21" />
+      <node id="mohfw" label="mohfw" />
+      <node id="action" label="action" />
+      <node id="tackle" label="tackle" />
+      <node id="25th" label="25th" />
+      <node id="166192" label="166192" />
+      <node id="1000" label="1000" />
+      <node id="1215" label="1215" />
+      <node id="13" label="13" />
+      <node id="june" label="june" />
+      <node id="165070" label="165070" />
+      <node id="169131" label="169131" />
+      <node id="candidate" label="candidate" />
+      <node id="1734" label="1734" />
+      <node id="20" label="20" />
+      <node id="2019ncov" label="2019ncov" />
+      <node id="victims" label="victims" />
+      <node id="mrna1273" label="mrna1273" />
+      <node id="sunday" label="sunday" />
+      <node id="bay" label="bay" />
+      <node id="area" label="area" />
+      <node id="catch" label="catch" />
+      <node id="samaresh" label="samaresh" />
+      <node id="saliva" label="saliva" />
+      <node id="russian" label="russian" />
+      <node id="risks" label="risks" />
+      <node id="27" label="27" />
+      <node id="child" label="child" />
+      <node id="goa" label="goa" />
+      <node id="tuned" label="tuned" />
+      <node id="click" label="click" />
+      <node id="learning" label="learning" />
+      <node id="beyond" label="beyond" />
+      <node id="sri" label="sri" />
+      <node id="lanka" label="lanka" />
+      <node id="breaking" label="breaking" />
+      <node id="africa" label="africa" />
+      <node id="business" label="business" />
+      <node id="leaders" label="leaders" />
+      <node id="petition" label="petition" />
+      <node id="shared" label="shared" />
+      <node id="stage" label="stage" />
+      <node id="push" label="push" />
+      <node id="send" label="send" />
+      <node id="see" label="see" />
+      <node id="scotland" label="scotland" />
+      <node id="consider" label="consider" />
+      <node id="england" label="england" />
+      <node id="donate" label="donate" />
+      <node id="indigenous" label="indigenous" />
+      <node id="peoples" label="peoples" />
+      <node id="great" label="great" />
+      <node id="covered" label="covered" />
+      <node id="education" label="education" />
+      <node id="effective" label="effective" />
+      <node id="cyprus" label="cyprus" />
+      <node id="ahead" label="ahead" />
+      <node id="equally" label="equally" />
+      <node id="essential" label="essential" />
+      <node id="everyone" label="everyone" />
+      <node id="announced" label="announced" />
+      <node id="frontline" label="frontline" />
+      <node id="issues" label="issues" />
+      <node id="existing" label="existing" />
+      <node id="drugs" label="drugs" />
+      <node id="hydroxychloroquine" label="hydroxychloroquine" />
+      <node id="hotel" label="hotel" />
+      <node id="deserted" label="deserted" />
+      <node id="hong" label="hong" />
+      <node id="kong" label="kong" />
+      <node id="herman" label="herman" />
+      <node id="cain" label="cain" />
+      <node id="voteblue" label="voteblue" />
+      <node id="executive" label="executive" />
+      <node id="orders" label="orders" />
+      <node id="feel" label="feel" />
+      <node id="shield" label="shield" />
+      <node id="jk" label="jk" />
+      <node id="hoursthe" label="hoursthe" />
+      <node id="invest" label="invest" />
+      <node id="date" label="date" />
+      <node id="florida" label="florida" />
+      <node id="jharkhand" label="jharkhand" />
+      <node id="excl" label="excl" />
+      <node id="chinese" label="chinese" />
+      <node id="cloth" label="cloth" />
+      <node id="students" label="students" />
+      <node id="newsmobile" label="newsmobile" />
+      <node id="generous" label="generous" />
+      <node id="refusing" label="refusing" />
+      <node id="60646" label="60646" />
+      <node id="diagnosed" label="diagnosed" />
+      <node id="realtime" label="realtime" />
+      <node id="mapping" label="mapping" />
+      <node id="mor" label="mor" />
+      <node id="highestever" label="highestever" />
+      <node id="review" label="review" />
+      <node id="returnees" label="returnees" />
+      <node id="rly" label="rly" />
+      <node id="distributed" label="distributed" />
+      <node id="science" label="science" />
+      <node id="fall" label="fall" />
+      <node id="1503" label="1503" />
+      <node id="antigen" label="antigen" />
+      <node id="measures" label="measures" />
+      <node id="confidence" label="confidence" />
+      <node id="safeguard" label="safeguard" />
+      <node id="false" label="false" />
+      <node id="approves" label="approves" />
+      <node id="announces" label="announces" />
+      <node id="robert" label="robert" />
+      <node id="works" label="works" />
+      <node id="risen" label="risen" />
+      <node id="riots" label="riots" />
+      <node id="randeep" label="randeep" />
+      <node id="guleria" label="guleria" />
+      <node id="vijayawada" label="vijayawada" />
+      <node id="launch" label="launch" />
+      <node id="edt" label="edt" />
+      <node id="donor" label="donor" />
+      <node id="cost" label="cost" />
+      <node id="defeated" label="defeated" />
+      <node id="yet" label="yet" />
+      <node id="another" label="another" />
+      <node id="accident" label="accident" />
+      <node id="fintech" label="fintech" />
+      <node id="infin" label="infin" />
+      <node id="passes" label="passes" />
+      <node id="countries" label="countries" />
+      <node id="fieldservice" label="fieldservice" />
+      <node id="half" label="half" />
+      <node id="contracting" label="contracting" />
+      <node id="quarantine" label="quarantine" />
+      <node id="list" label="list" />
+      <node id="garibkalyanrojgaryojana" label="garibkalyanrojgaryojana" />
+      <node id="06" label="06" />
+      <node id="mand" label="mand" />
+      <node id="affairs" label="affairs" />
+      <node id="1320" label="1320" />
+      <node id="press" label="press" />
+      <node id="conference" label="conference" />
+      <node id="potential" label="potential" />
+      <node id="postcovid" label="postcovid" />
+      <node id="hongkong" label="hongkong" />
+      <node id="macau" label="macau" />
+      <node id="welfare" label="welfare" />
+      <node id="posed" label="posed" />
+      <node id="poll" label="poll" />
+      <node id="strategies" label="strategies" />
+      <node id="worst" label="worst" />
+      <node id="shot" label="shot" />
+      <node id="access" label="access" />
+      <node id="travel" label="travel" />
+      <node id="trafalgar" label="trafalgar" />
+      <node id="square" label="square" />
+      <node id="no" label="no" />
+      <node id="age" label="age" />
+      <node id="give" label="give" />
+      <node id="2000month" label="2000month" />
+      <node id="ai" label="ai" />
+      <node id="banking" label="banking" />
+      <node id="aiims" label="aiims" />
+      <node id="director" label="director" />
+      <node id="passenge" label="passenge" />
+      <node id="key" label="key" />
+      <node id="virtual" label="virtual" />
+      <node id="events" label="events" />
+      <node id="8pm" label="8pm" />
+      <node id="throughout" label="throughout" />
+      <node id="thousands" label="thousands" />
+      <node id="texas" label="texas" />
+      <node id="abc" label="abc" />
+      <node id="93" label="93" />
+      <node id="ensuring" label="ensuring" />
+      <node id="engagement" label="engagement" />
+      <node id="using" label="using" />
+      <node id="2819" label="2819" />
+      <node id="29th" label="29th" />
+      <node id="covid19us" label="covid19us" />
+      <node id="4267" label="4267" />
+      <node id="future" label="future" />
+      <node id="uddhav" label="uddhav" />
+      <node id="thackeray" label="thackeray" />
+      <node id="opositive" label="opositive" />
+      <node id="cc" label="cc" />
+      <node id="trumpvirus" label="trumpvirus" />
+      <node id="vice" label="vice" />
+      <node id="moneyforthepeople" label="moneyforthepeople" />
+      <node id="enroll" label="enroll" />
+      <node id="meritnation" label="meritnation" />
+      <node id="havent" label="havent" />
+      <node id="they" label="they" />
+      <node id="18444455767" label="18444455767" />
+      <node id="standard" label="standard" />
+      <node id="job" label="job" />
+      <node id="brazil" label="brazil" />
+      <node id="grocery" label="grocery" />
+      <node id="store" label="store" />
+      <node id="briefing" label="briefing" />
+      <node id="group" label="group" />
+      <node id="upi" label="upi" />
+      <node id="soren" label="soren" />
+      <node id="wife" label="wife" />
+      <node id="center" label="center" />
+      <node id="distance" label="distance" />
+      <node id="48" label="48" />
+      <node id="beginning" label="beginning" />
+      <node id="increasing" label="increasing" />
+      <node id="shivrajsinghchouhan" label="shivrajsinghchouhan" />
+      <node id="shibu" label="shibu" />
+      <node id="seven" label="seven" />
+      <node id="rtpcr" label="rtpcr" />
+      <node id="tube" label="tube" />
+      <node id="kits" label="kits" />
+      <node id="visit" label="visit" />
+      <node id="orfs" label="orfs" />
+      <node id="54243" label="54243" />
+      <node id="surges" label="surges" />
+      <node id="migrant" label="migrant" />
+      <node id="systems" label="systems" />
+      <node id="airline" label="airline" />
+      <node id="identifies" label="identifies" />
+      <node id="wan" label="wan" />
+      <node id="battling" label="battling" />
+      <node id="believe" label="believe" />
+      <node id="staying" label="staying" />
+      <node id="belong" label="belong" />
+      <node id="hear" label="hear" />
+      <node id="statewise" label="statewise" />
+      <node id="distributio" label="distributio" />
+      <node id="others" label="others" />
+      <node id="jersey" label="jersey" />
+      <node id="edition" label="edition" />
+      <node id="kills" label="kills" />
+      <node id="killing" label="killing" />
+      <node id="lessons" label="lessons" />
+      <node id="learned" label="learned" />
+      <node id="mla" label="mla" />
+      <node id="information" label="information" />
+      <node id="stats" label="stats" />
+      <node id="national" label="national" />
+      <node id="plan" label="plan" />
+      <node id="nearly" label="nearly" />
+      <node id="nih" label="nih" />
+      <node id="govt" label="govt" />
+      <node id="order" label="order" />
+      <node id="obesity" label="obesity" />
+      <node id="manage" label="manage" />
+      <node id="induced" label="induced" />
+      <node id="rules" label="rules" />
+      <node id="gone" label="gone" />
+      <node id="real" label="real" />
+      <node id="indiafightscoronavirus" label="indiafightscoronavirus" />
+      <node id="dailyupdates" label="dailyupdates" />
+      <node id="forced" label="forced" />
+      <node id="policy" label="policy" />
+      <node id="serious" label="serious" />
+      <node id="heres" label="heres" />
+      <node id="conspiracy" label="conspiracy" />
+      <node id="internship" label="internship" />
+      <node id="program" label="program" />
+      <node id="covidiot" label="covidiot" />
+      <node id="might" label="might" />
+      <node id="able" label="able" />
+      <node id="began" label="began" />
+      <node id="covidtracker" label="covidtracker" />
+      <node id="average" label="average" />
+      <node id="migrants" label="migrants" />
+      <node id="on" label="on" />
+      <node id="6423" label="6423" />
+      <node id="doses" label="doses" />
+      <node id="deal" label="deal" />
+      <node id="rates" label="rates" />
+      <node id="lowest" label="lowest" />
+      <node id="la" label="la" />
+      <node id="conducts" label="conducts" />
+      <node id="unemployment" label="unemployment" />
+      <node id="ongoing" label="ongoing" />
+      <node id="killed" label="killed" />
+      <node id="summary" label="summary" />
+      <node id="tank" label="tank" />
+      <node id="suffering" label="suffering" />
+      <node id="baby" label="baby" />
+      <node id="thought" label="thought" />
+      <node id="thinking" label="thinking" />
+      <node id="thinks" label="thinks" />
+      <node id="mailin" label="mailin" />
+      <node id="voting" label="voting" />
+      <node id="throughput" label="throughput" />
+      <node id="belarus" label="belarus" />
+      <node id="pollution" label="pollution" />
+      <node id="suggests" label="suggests" />
+      <node id="epidemic" label="epidemic" />
+      <node id="giving" label="giving" />
+      <node id="bad" label="bad" />
+      <node id="cold" label="cold" />
+      <node id="tops" label="tops" />
+      <node id="stories" label="stories" />
+      <node id="interesting" label="interesting" />
+      <node id="address" label="address" />
+      <node id="strategy" label="strategy" />
+      <node id="tomorrow" label="tomorrow" />
+      <node id="jobs" label="jobs" />
+      <node id="streets" label="streets" />
+      <node id="id2020" label="id2020" />
+      <node id="eradicate" label="eradicate" />
+      <node id="passeng" label="passeng" />
+      <node id="taken" label="taken" />
+      <node id="tmc" label="tmc" />
+      <node id="tips" label="tips" />
+      <node id="infectious" label="infectious" />
+      <node id="higher" label="higher" />
+      <node id="unprecedented" label="unprecedented" />
+      <node id="aug" label="aug" />
+      <node id="makes" label="makes" />
+      <node id="sense" label="sense" />
+      <node id="hiring" label="hiring" />
+      <node id="technews" label="technews" />
+      <node id="op" label="op" />
+      <node id="god" label="god" />
+      <node id="bless" label="bless" />
+      <node id="anthony" label="anthony" />
+      <node id="moderna" label="moderna" />
+      <node id="aug13" label="aug13" />
+      <node id="climbs" label="climbs" />
+      <node id="association" label="association" />
+      <node id="round" label="round" />
+      <node id="approve" label="approve" />
+      <node id="mandates" label="mandates" />
+      <node id="offer" label="offer" />
+      <node id="surfaces" label="surfaces" />
+      <node id="capturing" label="capturing" />
+      <node id="almost" label="almost" />
+      <node id="commercial" label="commercial" />
+      <node id="manoj" label="manoj" />
+      <node id="tiwari" label="tiwari" />
+      <node id="survey" label="survey" />
+      <node id="exposed" label="exposed" />
+      <node id="ceo" label="ceo" />
+      <node id="besafe" label="besafe" />
+      <node id="pandemi" label="pandemi" />
+      <node id="pandem" label="pandem" />
+      <node id="swarna" label="swarna" />
+      <node id="palace" label="palace" />
+      <node id="adapt" label="adapt" />
+      <node id="wand" label="wand" />
+      <node id="165074" label="165074" />
+      <node id="month" label="month" />
+      <node id="933" label="933" />
+      <node id="focus" label="focus" />
+      <node id="flulike" label="flulike" />
+      <node id="landlord" label="landlord" />
+      <node id="salespeople" label="salespeople" />
+      <node id="1981" label="1981" />
+      <node id="1918" label="1918" />
+      <node id="fucking" label="fucking" />
+      <node id="shields" label="shields" />
+      <node id="challenge" label="challenge" />
+      <node id="took" label="took" />
+      <node id="tell" label="tell" />
+      <node id="flight" label="flight" />
+      <node id="stayhomestaysafe" label="stayhomestaysafe" />
+      <node id="summer" label="summer" />
+      <node id="23" label="23" />
+      <node id="jobless" label="jobless" />
+      <node id="aid" label="aid" />
+      <node id="british" label="british" />
+      <node id="forget" label="forget" />
+      <node id="227" label="227" />
+      <node id="viral" label="viral" />
+      <node id="meeting" label="meeting" />
+      <node id="2244" label="2244" />
+      <node id="gets" label="gets" />
+      <node id="vaccinated" label="vaccinated" />
+      <node id="federal" label="federal" />
+      <node id="agents" label="agents" />
+      <node id="khurda" label="khurda" />
+      <node id="kharagpur" label="kharagpur" />
+      <node id="researchers" label="researchers" />
+      <node id="indian" label="indian" />
+      <node id="creates" label="creates" />
+      <node id="feels" label="feels" />
+      <node id="joke" label="joke" />
+      <node id="workplace" label="workplace" />
+      <node id="five" label="five" />
+      <node id="161" label="161" />
+      <node id="weekend" label="weekend" />
+      <node id="vaccination" label="vaccination" />
+      <node id="wipe" label="wipe" />
+      <node id="disinfect" label="disinfect" />
+      <node id="dombivli" label="dombivli" />
+      <node id="essentia" label="essentia" />
+      <node id="war" label="war" />
+      <node id="1384" label="1384" />
+      <node id="various" label="various" />
+      <node id="vaishno" label="vaishno" />
+      <node id="devi" label="devi" />
+      <node id="82" label="82" />
+      <node id="cumulative" label="cumulative" />
+      <node id="6805" label="6805" />
+      <node id="tweet" label="tweet" />
+      <node id="twitterpolls" label="twitterpolls" />
+      <node id="twitterpoll" label="twitterpoll" />
+      <node id="evidence" label="evidence" />
+      <node id="gavin" label="gavin" />
+      <node id="iskcon" label="iskcon" />
+      <node id="628747" label="628747" />
+      <node id="7054" label="7054" />
+      <node id="830pm" label="830pm" />
+      <node id="834" label="834" />
+      <node id="globe" label="globe" />
+      <node id="track" label="track" />
+      <node id="resource" label="resource" />
+      <node id="responsive" label="responsive" />
+      <node id="97000" label="97000" />
+      <node id="tribute" label="tribute" />
+      <node id="truenat" label="truenat" />
+      <node id="p2p" label="p2p" />
+      <node id="us" label="us" />
+      <node id="jammu" label="jammu" />
+      <node id="kashmir" label="kashmir" />
+      <node id="friday" label="friday" />
+      <node id="lies" label="lies" />
+      <node id="deception" label="deception" />
+      <node id="lexagene" label="lexagene" />
+      <node id="development" label="development" />
+      <node id="four" label="four" />
+      <node id="founder" label="founder" />
+      <node id="patent" label="patent" />
+      <node id="foudnation" label="foudnation" />
+      <node id="ready" label="ready" />
+      <node id="30" label="30" />
+      <node id="spreads" label="spreads" />
+      <node id="50000" label="50000" />
+      <node id="delta" label="delta" />
+      <node id="ivf" label="ivf" />
+      <node id="unitednations" label="unitednations" />
+      <node id="ex" label="ex" />
+      <node id="gratia" label="gratia" />
+      <node id="furlough" label="furlough" />
+      <node id="scheme" label="scheme" />
+      <node id="rolling" label="rolling" />
+      <node id="sight" label="sight" />
+      <node id="place" label="place" />
+      <node id="cope" label="cope" />
+      <node id="hindustan" label="hindustan" />
+      <node id="created" label="created" />
+      <node id="contracted" label="contracted" />
+      <node id="royals" label="royals" />
+      <node id="detection" label="detection" />
+      <node id="highthroughput" label="highthroughput" />
+      <node id="sets" label="sets" />
+      <node id="demand" label="demand" />
+      <node id="persons" label="persons" />
+      <node id="highly" label="highly" />
+      <node id="contagious" label="contagious" />
+      <node id="inoculated" label="inoculated" />
+      <node id="hits" label="hits" />
+      <node id="shops" label="shops" />
+      <node id="guernsey" label="guernsey" />
+      <node id="preventive" label="preventive" />
+      <node id="prior" label="prior" />
+      <node id="transport" label="transport" />
+      <node id="detect" label="detect" />
+      <node id="caseload" label="caseload" />
+      <node id="theory" label="theory" />
+      <node id="nirmala" label="nirmala" />
+      <node id="sitharaman" label="sitharaman" />
+      <node id="common" label="common" />
+      <node id="reducing" label="reducing" />
+      <node id="coming" label="coming" />
+      <node id="refuse" label="refuse" />
+      <node id="refused" label="refused" />
+      <node id="register" label="register" />
+      <node id="colorado" label="colorado" />
+      <node id="drug" label="drug" />
+      <node id="remain" label="remain" />
+      <node id="closed" label="closed" />
+      <node id="helping" label="helping" />
+      <node id="climate" label="climate" />
+      <node id="communities" label="communities" />
+      <node id="complications" label="complications" />
+      <node id="develop" label="develop" />
+      <node id="recover" label="recover" />
+      <node id="far" label="far" />
+      <node id="nfl" label="nfl" />
+      <node id="players" label="players" />
+      <node id="concerned" label="concerned" />
+      <node id="challenges" label="challenges" />
+      <node id="estimated" label="estimated" />
+      <node id="overcome" label="overcome" />
+      <node id="hygiene" label="hygiene" />
+      <node id="capita" label="capita" />
+      <node id="facing" label="facing" />
+      <node id="deployed" label="deployed" />
+      <node id="charlatans" label="charlatans" />
+      <node id="finance" label="finance" />
+      <node id="phone" label="phone" />
+      <node id="became" label="became" />
+      <node id="iit" label="iit" />
+      <node id="living" label="living" />
+      <node id="details" label="details" />
+      <node id="accelerating" label="accelerating" />
+      <node id="74" label="74" />
+      <node id="pay" label="pay" />
+      <node id="cuts" label="cuts" />
+      <node id="arrested" label="arrested" />
+      <node id="6392" label="6392" />
+      <node id="observes" label="observes" />
+      <node id="polling" label="polling" />
+      <node id="polls" label="polls" />
+      <node id="prayers" label="prayers" />
+      <node id="dental" label="dental" />
+      <node id="depression" label="depression" />
+      <node id="anxiety" label="anxiety" />
+      <node id="causing" label="causing" />
+      <node id="find" label="find" />
+      <node id="outbreaks" label="outbreaks" />
+      <node id="postal" label="postal" />
+      <node id="service" label="service" />
+      <node id="politics" label="politics" />
+      <node id="coronavirusindia" label="coronavirusindia" />
+      <node id="bank" label="bank" />
+      <node id="bloomberg" label="bloomberg" />
+      <node id="coronavirusinindia" label="coronavirusinindia" />
+      <node id="opening" label="opening" />
+      <node id="stand" label="stand" />
+      <node id="brexit" label="brexit" />
+      <node id="letter" label="letter" />
+      <node id="officer" label="officer" />
+      <node id="rigged" label="rigged" />
+      <node id="earth" label="earth" />
+      <node id="less" label="less" />
+      <node id="lie" label="lie" />
+      <node id="side" label="side" />
+      <node id="hospitalizations" label="hospitalizations" />
+      <node id="led" label="led" />
+      <node id="much" label="much" />
+      <node id="individuals" label="individuals" />
+      <node id="served" label="served" />
+      <node id="reach" label="reach" />
+      <node id="smell" label="smell" />
+      <node id="municipal" label="municipal" />
+      <node id="corporation" label="corporation" />
+      <node id="show" label="show" />
+      <node id="mumbai" label="mumbai" />
+      <node id="happy" label="happy" />
+      <node id="birthday" label="birthday" />
+      <node id="hanuman" label="hanuman" />
+      <node id="chalisa" label="chalisa" />
+      <node id="shares" label="shares" />
+      <node id="thoughts" label="thoughts" />
+      <node id="sore" label="sore" />
+      <node id="throat" label="throat" />
+      <node id="governments" label="governments" />
+      <node id="account" label="account" />
+      <node id="better" label="better" />
+      <node id="staysafe" label="staysafe" />
+      <node id="sanitize" label="sanitize" />
+      <node id="emergency" label="emergency" />
+      <node id="ta" label="ta" />
+      <node id="misinformation" label="misinformation" />
+      <node id="bounce" label="bounce" />
+      <node id="60963" label="60963" />
+      <node id="provision" label="provision" />
+      <node id="millions" label="millions" />
+      <node id="delegation" label="delegation" />
+      <node id="bihar" label="bihar" />
+      <node id="grantalert" label="grantalert" />
+      <node id="doubling" label="doubling" />
+      <node id="period" label="period" />
+      <node id="thr" label="thr" />
+      <node id="bogusboris" label="bogusboris" />
+      <node id="forcing" label="forcing" />
+      <node id="challenging" label="challenging" />
+      <node id="dishant" label="dishant" />
+      <node id="yagnik" label="yagnik" />
+      <node id="out" label="out" />
+      <node id="claim" label="claim" />
+      <node id="transformation" label="transformation" />
+      <node id="ways" label="ways" />
+      <node id="grants" label="grants" />
+      <node id="direct" label="direct" />
+      <node id="chicken" label="chicken" />
+      <node id="wings" label="wings" />
+      <node id="excuse" label="excuse" />
+      <node id="reporting" label="reporting" />
+      <node id="seattle" label="seattle" />
+      <node id="hotspot" label="hotspot" />
+      <node id="inequalities" label="inequalities" />
+      <node id="hotspots" label="hotspots" />
+      <node id="dept" label="dept" />
+      <node id="hour" label="hour" />
+      <node id="suppor" label="suppor" />
+      <node id="engineering" label="engineering" />
+      <node id="scottish" label="scottish" />
+      <node id="wise" label="wise" />
+      <node id="nevada" label="nevada" />
+      <node id="church" label="church" />
+      <node id="services" label="services" />
+      <node id="rural" label="rural" />
+      <node id="areas" label="areas" />
+      <node id="registered" label="registered" />
+      <node id="registers" label="registers" />
+      <node id="disrupted" label="disrupted" />
+      <node id="organization" label="organization" />
+      <node id="sanitiser" label="sanitiser" />
+      <node id="officers" label="officers" />
+    </nodes>
+    <edges>
+      <edge source="covid19" target="cases" id="0" />
+      <edge source="covid19" target="coronavirus" id="1" />
+      <edge source="covid19" target="new" id="2" />
+      <edge source="covid19" target="pandemic" id="3" />
+      <edge source="covid19" target="died" id="4" />
+      <edge source="covid19" target="positive" id="5" />
+      <edge source="covid19" target="vaccine" id="6" />
+      <edge source="covid19" target="due" id="7" />
+      <edge source="covid19" target="spread" id="8" />
+      <edge source="covid19" target="covid" id="9" />
+      <edge source="covid19" target="covid19" id="10" />
+      <edge source="covid19" target="tally" id="11" />
+      <edge source="covid19" target="patients" id="12" />
+      <edge source="covid19" target="deaths" id="13" />
+      <edge source="covid19" target="crisis" id="14" />
+      <edge source="covid19" target="amid" id="15" />
+      <edge source="covid19" target="number" id="16" />
+      <edge source="covid19" target="testing" id="17" />
+      <edge source="covid19" target="tests" id="18" />
+      <edge source="covid19" target="fight" id="19" />
+      <edge source="covid19" target="total" id="20" />
+      <edge source="covid19" target="impact" id="21" />
+      <edge source="covid19" target="kids" id="22" />
+      <edge source="covid19" target="identify" id="23" />
+      <edge source="covid19" target="fresh" id="24" />
+      <edge source="covid19" target="recovered" id="25" />
+      <edge source="covid19" target="india" id="26" />
+      <edge source="covid19" target="test" id="27" />
+      <edge source="covid19" target="indias" id="28" />
+      <edge source="covid19" target="global" id="29" />
+      <edge source="covid19" target="lockdown" id="30" />
+      <edge source="covid19" target="protests" id="31" />
+      <edge source="covid19" target="outbreak" id="32" />
+      <edge source="covid19" target="case" id="33" />
+      <edge source="covid19" target="amp" id="34" />
+      <edge source="covid19" target="post" id="35" />
+      <edge source="covid19" target="negative" id="36" />
+      <edge source="covid19" target="corona" id="37" />
+      <edge source="covid19" target="response" id="38" />
+      <edge source="covid19" target="death" id="39" />
+      <edge source="covid19" target="preprint" id="40" />
+      <edge source="covid19" target="first" id="41" />
+      <edge source="covid19" target="county" id="42" />
+      <edge source="covid19" target="get" id="43" />
+      <edge source="covid19" target="pima" id="44" />
+      <edge source="covid19" target="update" id="45" />
+      <edge source="covid19" target="hours" id="46" />
+      <edge source="covid19" target="via" id="47" />
+      <edge source="covid19" target="infection" id="48" />
+      <edge source="covid19" target="226" id="49" />
+      <edge source="covid19" target="uk" id="50" />
+      <edge source="covid19" target="vaccines" id="51" />
+      <edge source="covid19" target="report" id="52" />
+      <edge source="covid19" target="fitness" id="53" />
+      <edge source="covid19" target="situation" id="54" />
+      <edge source="covid19" target="tested" id="55" />
+      <edge source="covid19" target="recovery" id="56" />
+      <edge source="covid19" target="million" id="57" />
+      <edge source="covid19" target="goals" id="58" />
+      <edge source="covid19" target="225" id="59" />
+      <edge source="covid19" target="samples" id="60" />
+      <edge source="covid19" target="221" id="61" />
+      <edge source="covid19" target="today" id="62" />
+      <edge source="covid19" target="223" id="63" />
+      <edge source="covid19" target="time" id="64" />
+      <edge source="covid19" target="affected" id="65" />
+      <edge source="covid19" target="lakh" id="66" />
+      <edge source="covid19" target="covidー19" id="67" />
+      <edge source="covid19" target="like" id="68" />
+      <edge source="covid19" target="news" id="69" />
+      <edge source="covid19" target="treatment" id="70" />
+      <edge source="covid19" target="229" id="71" />
+      <edge source="covid19" target="virus" id="72" />
+      <edge source="covid19" target="224" id="73" />
+      <edge source="covid19" target="die" id="74" />
+      <edge source="covid19" target="updatesindia" id="75" />
+      <edge source="covid19" target="numbers" id="76" />
+      <edge source="covid19" target="secondwave" id="77" />
+      <edge source="covid19" target="since" id="78" />
+      <edge source="covid19" target="world" id="79" />
+      <edge source="covid19" target="odishas" id="80" />
+      <edge source="covid19" target="related" id="81" />
+      <edge source="covid19" target="infections" id="82" />
+      <edge source="covid19" target="safe" id="83" />
+      <edge source="covid19" target="risk" id="84" />
+      <edge source="covid19" target="symptoms" id="85" />
+      <edge source="covid19" target="days" id="86" />
+      <edge source="covid19" target="rise" id="87" />
+      <edge source="covid19" target="updated" id="88" />
+      <edge source="covid19" target="top" id="89" />
+      <edge source="covid19" target="daily" id="90" />
+      <edge source="covid19" target="dying" id="91" />
+      <edge source="covid19" target="mers" id="92" />
+      <edge source="covid19" target="infected" id="93" />
+      <edge source="covid19" target="still" id="94" />
+      <edge source="covid19" target="wake" id="95" />
+      <edge source="covid19" target="fighting" id="96" />
+      <edge source="covid19" target="may" id="97" />
+      <edge source="covid19" target="ove" id="98" />
+      <edge source="covid19" target="read" id="99" />
+      <edge source="covid19" target="ghana" id="100" />
+      <edge source="covid19" target="coronavirusoutbreak" id="101" />
+      <edge source="covid19" target="alert" id="102" />
+      <edge source="covid19" target="times" id="103" />
+      <edge source="covid19" target="cure" id="104" />
+      <edge source="covid19" target="people" id="105" />
+      <edge source="covid19" target="mask" id="106" />
+      <edge source="covid19" target="trump" id="107" />
+      <edge source="covid19" target="coronavirusupdates" id="108" />
+      <edge source="covid19" target="spike" id="109" />
+      <edge source="covid19" target="relief" id="110" />
+      <edge source="covid19" target="dead" id="111" />
+      <edge source="covid19" target="would" id="112" />
+      <edge source="covid19" target="know" id="113" />
+      <edge source="covid19" target="dies" id="114" />
+      <edge source="covid19" target="data" id="115" />
+      <edge source="covid19" target="health" id="116" />
+      <edge source="covid19" target="day" id="117" />
+      <edge source="covid19" target="treat" id="118" />
+      <edge source="covid19" target="covid19uk" id="119" />
+      <edge source="covid19" target="handling" id="120" />
+      <edge source="covid19" target="battle" id="121" />
+      <edge source="covid19" target="increase" id="122" />
+      <edge source="covid19" target="telangana" id="123" />
+      <edge source="covid19" target="many" id="124" />
+      <edge source="covid19" target="hoax" id="125" />
+      <edge source="covid19" target="home" id="126" />
+      <edge source="covid19" target="said" id="127" />
+      <edge source="covid19" target="confirmed" id="128" />
+      <edge source="covid19" target="also" id="129" />
+      <edge source="covid19" target="updates" id="130" />
+      <edge source="covid19" target="usa" id="131" />
+      <edge source="covid19" target="facility" id="132" />
+      <edge source="covid19" target="please" id="133" />
+      <edge source="covid19" target="sarscov2" id="134" />
+      <edge source="covid19" target="caused" id="135" />
+      <edge source="covid19" target="worldwide" id="136" />
+      <edge source="covid19" target="surge" id="137" />
+      <edge source="covid19" target="suspected" id="138" />
+      <edge source="covid19" target="era" id="139" />
+      <edge source="covid19" target="changed" id="140" />
+      <edge source="covid19" target="despite" id="141" />
+      <edge source="covid19" target="among" id="142" />
+      <edge source="covid19" target="thanks" id="143" />
+      <edge source="covid19" target="2020" id="144" />
+      <edge source="covid19" target="patient" id="145" />
+      <edge source="covid19" target="masks" id="146" />
+      <edge source="covid19" target="says" id="147" />
+      <edge source="covid19" target="last" id="148" />
+      <edge source="covid19" target="children" id="149" />
+      <edge source="covid19" target="work" id="150" />
+      <edge source="covid19" target="protect" id="151" />
+      <edge source="covid19" target="wave" id="152" />
+      <edge source="covid19" target="made" id="153" />
+      <edge source="covid19" target="months" id="154" />
+      <edge source="covid19" target="safety" id="155" />
+      <edge source="covid19" target="associated" id="156" />
+      <edge source="covid19" target="need" id="157" />
+      <edge source="covid19" target="guidelines" id="158" />
+      <edge source="covid19" target="wearamask" id="159" />
+      <edge source="covid19" target="active" id="160" />
+      <edge source="covid19" target="found" id="161" />
+      <edge source="covid19" target="impacted" id="162" />
+      <edge source="covid19" target="care" id="163" />
+      <edge source="covid19" target="control" id="164" />
+      <edge source="covid19" target="impacts" id="165" />
+      <edge source="covid19" target="coronavirusuk" id="166" />
+      <edge source="covid19" target="used" id="167" />
+      <edge source="covid19" target="free" id="168" />
+      <edge source="covid19" target="getting" id="169" />
+      <edge source="covid19" target="beat" id="170" />
+      <edge source="covid19" target="aka" id="171" />
+      <edge source="covid19" target="restrictions" id="172" />
+      <edge source="covid19" target="help" id="173" />
+      <edge source="covid19" target="take" id="174" />
+      <edge source="covid19" target="concerns" id="175" />
+      <edge source="covid19" target="got" id="176" />
+      <edge source="covid19" target="put" id="177" />
+      <edge source="covid19" target="could" id="178" />
+      <edge source="covid19" target="means" id="179" />
+      <edge source="covid19" target="sign" id="180" />
+      <edge source="covid19" target="end" id="181" />
+      <edge source="covid19" target="latest" id="182" />
+      <edge source="covid19" target="current" id="183" />
+      <edge source="covid19" target="management" id="184" />
+      <edge source="covid19" target="life" id="185" />
+      <edge source="covid19" target="troubles" id="186" />
+      <edge source="covid19" target="immune" id="187" />
+      <edge source="covid19" target="hit" id="188" />
+      <edge source="covid19" target="questions" id="189" />
+      <edge source="covid19" target="analysis" id="190" />
+      <edge source="covid19" target="view" id="191" />
+      <edge source="covid19" target="230" id="192" />
+      <edge source="covid19" target="hospital" id="193" />
+      <edge source="covid19" target="amidst" id="194" />
+      <edge source="covid19" target="thread" id="195" />
+      <edge source="covid19" target="severe" id="196" />
+      <edge source="covid19" target="continues" id="197" />
+      <edge source="covid19" target="ave" id="198" />
+      <edge source="covid19" target="economy" id="199" />
+      <edge source="covid19" target="truth" id="200" />
+      <edge source="covid19" target="discuss" id="201" />
+      <edge source="covid19" target="stop" id="202" />
+      <edge source="covid19" target="bve" id="203" />
+      <edge source="covid19" target="trial" id="204" />
+      <edge source="covid19" target="ill" id="205" />
+      <edge source="covid19" target="think" id="206" />
+      <edge source="covid19" target="brought" id="207" />
+      <edge source="covid19" target="well" id="208" />
+      <edge source="covid19" target="admitted" id="209" />
+      <edge source="covid19" target="accelerated" id="210" />
+      <edge source="covid19" target="check" id="211" />
+      <edge source="covid19" target="rapid" id="212" />
+      <edge source="covid19" target="doesnt" id="213" />
+      <edge source="covid19" target="live" id="214" />
+      <edge source="covid19" target="combat" id="215" />
+      <edge source="covid19" target="result" id="216" />
+      <edge source="covid19" target="right" id="217" />
+      <edge source="covid19" target="covidiots" id="218" />
+      <edge source="covid19" target="rate" id="219" />
+      <edge source="covid19" target="the" id="220" />
+      <edge source="covid19" target="transmission" id="221" />
+      <edge source="covid19" target="todays" id="222" />
+      <edge source="covid19" target="toll" id="223" />
+      <edge source="covid19" target="use" id="224" />
+      <edge source="covid19" target="way" id="225" />
+      <edge source="covid19" target="year" id="226" />
+      <edge source="covid19" target="treating" id="227" />
+      <edge source="covid19" target="webinar" id="228" />
+      <edge source="covid19" target="situations" id="229" />
+      <edge source="covid19" target="prevent" id="230" />
+      <edge source="covid19" target="nhs" id="231" />
+      <edge source="covid19" target="immunity" id="232" />
+      <edge source="covid19" target="spreading" id="233" />
+      <edge source="covid19" target="story" id="234" />
+      <edge source="covid19" target="technology" id="235" />
+      <edge source="covid19" target="say" id="236" />
+      <edge source="covid19" target="russia" id="237" />
+      <edge source="covid19" target="sick" id="238" />
+      <edge source="covid19" target="affect" id="239" />
+      <edge source="covid19" target="and" id="240" />
+      <edge source="covid19" target="become" id="241" />
+      <edge source="covid19" target="effects" id="242" />
+      <edge source="covid19" target="bsnl" id="243" />
+      <edge source="covid19" target="back" id="244" />
+      <edge source="covid19" target="august" id="245" />
+      <edge source="covid19" target="around" id="246" />
+      <edge source="covid19" target="claims" id="247" />
+      <edge source="covid19" target="covid19india" id="248" />
+      <edge source="covid19" target="americans" id="249" />
+      <edge source="covid19" target="even" id="250" />
+      <edge source="covid19" target="231" id="251" />
+      <edge source="covid19" target="change" id="252" />
+      <edge source="covid19" target="coronavirusstories" id="253" />
+      <edge source="covid19" target="country" id="254" />
+      <edge source="covid19" target="dominicummimgs" id="255" />
+      <edge source="covid19" target="228" id="256" />
+      <edge source="covid19" target="schoolsreopening" id="257" />
+      <edge source="covid19" target="mortality" id="258" />
+      <edge source="covid19" target="protocols" id="259" />
+      <edge source="covid19" target="one" id="260" />
+      <edge source="covid19" target="experience" id="261" />
+      <edge source="covid19" target="in" id="262" />
+      <edge source="covid19" target="want" id="263" />
+      <edge source="covid19" target="10" id="264" />
+      <edge source="covid19" target="research" id="265" />
+      <edge source="covid19" target="phase" id="266" />
+      <edge source="covid19" target="study" id="267" />
+      <edge source="covid19" target="socialdistancing" id="268" />
+      <edge source="covid19" target="learn" id="269" />
+      <edge source="covid19" target="light" id="270" />
+      <edge source="covid19" target="support" id="271" />
+      <edge source="covid19" target="discharged" id="272" />
+      <edge source="covid19" target="contract" id="273" />
+      <edge source="covid19" target="changing" id="274" />
+      <edge source="covid19" target="china" id="275" />
+      <edge source="covid19" target="dashboard" id="276" />
+      <edge source="covid19" target="lockdowns" id="277" />
+      <edge source="covid19" target="next" id="278" />
+      <edge source="covid19" target="fatality" id="279" />
+      <edge source="covid19" target="according" id="280" />
+      <edge source="covid19" target="going" id="281" />
+      <edge source="covid19" target="reported" id="282" />
+      <edge source="covid19" target="releasing" id="283" />
+      <edge source="covid19" target="positives" id="284" />
+      <edge source="covid19" target="across" id="285" />
+      <edge source="covid19" target="managing" id="286" />
+      <edge source="covid19" target="part" id="287" />
+      <edge source="covid19" target="america" id="288" />
+      <edge source="covid19" target="antibodies" id="289" />
+      <edge source="covid19" target="opportunity" id="290" />
+      <edge source="covid19" target="odisha" id="291" />
+      <edge source="covid19" target="understand" id="292" />
+      <edge source="covid19" target="61379" id="293" />
+      <edge source="covid19" target="abve" id="294" />
+      <edge source="covid19" target="astrazeneca" id="295" />
+      <edge source="covid19" target="tackle" id="296" />
+      <edge source="covid19" target="weeks" id="297" />
+      <edge source="covid19" target="catch" id="298" />
+      <edge source="covid19" target="russian" id="299" />
+      <edge source="covid19" target="risks" id="300" />
+      <edge source="covid19" target="reports" id="301" />
+      <edge source="covid19" target="beyond" id="302" />
+      <edge source="covid19" target="states" id="303" />
+      <edge source="covid19" target="see" id="304" />
+      <edge source="covid19" target="second" id="305" />
+      <edge source="covid19" target="government" id="306" />
+      <edge source="covid19" target="education" id="307" />
+      <edge source="covid19" target="hydroxychloroquine" id="308" />
+      <edge source="covid19" target="deadly" id="309" />
+      <edge source="covid19" target="family" id="310" />
+      <edge source="covid19" target="diagnosed" id="311" />
+      <edge source="covid19" target="review" id="312" />
+      <edge source="covid19" target="science" id="313" />
+      <edge source="covid19" target="schools" id="314" />
+      <edge source="covid19" target="florida" id="315" />
+      <edge source="covid19" target="rising" id="316" />
+      <edge source="covid19" target="plasma" id="317" />
+      <edge source="covid19" target="cost" id="318" />
+      <edge source="covid19" target="defeated" id="319" />
+      <edge source="covid19" target="hoursthe" id="320" />
+      <edge source="covid19" target="yet" id="321" />
+      <edge source="covid19" target="rajasthan" id="322" />
+      <edge source="covid19" target="contracting" id="323" />
+      <edge source="covid19" target="potential" id="324" />
+      <edge source="covid19" target="posed" id="325" />
+      <edge source="covid19" target="travel" id="326" />
+      <edge source="covid19" target="age" id="327" />
+      <edge source="covid19" target="video" id="328" />
+      <edge source="covid19" target="throughout" id="329" />
+      <edge source="covid19" target="thing" id="330" />
+      <edge source="covid19" target="using" id="331" />
+      <edge source="covid19" target="trials" id="332" />
+      <edge source="covid19" target="60646" id="333" />
+      <edge source="covid19" target="64399" id="334" />
+      <edge source="covid19" target="trumpvirus" id="335" />
+      <edge source="covid19" target="brazil" id="336" />
+      <edge source="covid19" target="briefing" id="337" />
+      <edge source="covid19" target="group" id="338" />
+      <edge source="covid19" target="watch" id="339" />
+      <edge source="covid19" target="shows" id="340" />
+      <edge source="covid19" target="taking" id="341" />
+      <edge source="covid19" target="following" id="342" />
+      <edge source="covid19" target="battling" id="343" />
+      <edge source="covid19" target="believe" id="344" />
+      <edge source="covid19" target="measures" id="345" />
+      <edge source="covid19" target="kills" id="346" />
+      <edge source="covid19" target="killing" id="347" />
+      <edge source="covid19" target="learning" id="348" />
+      <edge source="covid19" target="stay" id="349" />
+      <edge source="covid19" target="stats" id="350" />
+      <edge source="covid19" target="clinical" id="351" />
+      <edge source="covid19" target="moneyforthepeople" id="352" />
+      <edge source="covid19" target="task" id="353" />
+      <edge source="covid19" target="obesity" id="354" />
+      <edge source="covid19" target="manage" id="355" />
+      <edge source="covid19" target="induced" id="356" />
+      <edge source="covid19" target="rules" id="357" />
+      <edge source="covid19" target="gone" id="358" />
+      <edge source="covid19" target="real" id="359" />
+      <edge source="covid19" target="record" id="360" />
+      <edge source="covid19" target="forced" id="361" />
+      <edge source="covid19" target="man" id="362" />
+      <edge source="covid19" target="plan" id="363" />
+      <edge source="covid19" target="serious" id="364" />
+      <edge source="covid19" target="maharashtra" id="365" />
+      <edge source="covid19" target="heres" id="366" />
+      <edge source="covid19" target="conspiracy" id="367" />
+      <edge source="covid19" target="covidiot" id="368" />
+      <edge source="covid19" target="karnataka" id="369" />
+      <edge source="covid19" target="average" id="370" />
+      <edge source="covid19" target="deal" id="371" />
+      <edge source="covid19" target="unemployment" id="372" />
+      <edge source="covid19" target="ongoing" id="373" />
+      <edge source="covid19" target="africa" id="374" />
+      <edge source="covid19" target="summary" id="375" />
+      <edge source="covid19" target="suffering" id="376" />
+      <edge source="covid19" target="thought" id="377" />
+      <edge source="covid19" target="thinking" id="378" />
+      <edge source="covid19" target="thinks" id="379" />
+      <edge source="covid19" target="throughput" id="380" />
+      <edge source="covid19" target="plandemic" id="381" />
+      <edge source="covid19" target="address" id="382" />
+      <edge source="covid19" target="strategy" id="383" />
+      <edge source="covid19" target="tomorrow" id="384" />
+      <edge source="covid19" target="eradicate" id="385" />
+      <edge source="covid19" target="lowest" id="386" />
+      <edge source="covid19" target="quarantine" id="387" />
+      <edge source="covid19" target="public" id="388" />
+      <edge source="covid19" target="another" id="389" />
+      <edge source="covid19" target="nyc" id="390" />
+      <edge source="covid19" target="england" id="391" />
+      <edge source="covid19" target="op" id="392" />
+      <edge source="covid19" target="approve" id="393" />
+      <edge source="covid19" target="go" id="394" />
+      <edge source="covid19" target="offer" id="395" />
+      <edge source="covid19" target="away" id="396" />
+      <edge source="covid19" target="things" id="397" />
+      <edge source="covid19" target="authorities" id="398" />
+      <edge source="covid19" target="pan" id="399" />
+      <edge source="covid19" target="texas" id="400" />
+      <edge source="covid19" target="face" id="401" />
+      <edge source="covid19" target="focus" id="402" />
+      <edge source="covid19" target="took" id="403" />
+      <edge source="covid19" target="tell" id="404" />
+      <edge source="covid19" target="stayhomestaysafe" id="405" />
+      <edge source="covid19" target="summer" id="406" />
+      <edge source="covid19" target="forget" id="407" />
+      <edge source="covid19" target="football" id="408" />
+      <edge source="covid19" target="years" id="409" />
+      <edge source="covid19" target="joke" id="410" />
+      <edge source="covid19" target="workplace" id="411" />
+      <edge source="covid19" target="wearing" id="412" />
+      <edge source="covid19" target="vaccination" id="413" />
+      <edge source="covid19" target="war" id="414" />
+      <edge source="covid19" target="working" id="415" />
+      <edge source="covid19" target="long" id="416" />
+      <edge source="covid19" target="shared" id="417" />
+      <edge source="covid19" target="lives" id="418" />
+      <edge source="covid19" target="gets" id="419" />
+      <edge source="covid19" target="resource" id="420" />
+      <edge source="covid19" target="responsive" id="421" />
+      <edge source="covid19" target="results" id="422" />
+      <edge source="covid19" target="us" id="423" />
+      <edge source="covid19" target="state" id="424" />
+      <edge source="covid19" target="friday" id="425" />
+      <edge source="covid19" target="let" id="426" />
+      <edge source="covid19" target="foudnation" id="427" />
+      <edge source="covid19" target="spreads" id="428" />
+      <edge source="covid19" target="unitednations" id="429" />
+      <edge source="covid19" target="cope" id="430" />
+      <edge source="covid19" target="created" id="431" />
+      <edge source="covid19" target="contracted" id="432" />
+      <edge source="covid19" target="cumulative" id="433" />
+      <edge source="covid19" target="detection" id="434" />
+      <edge source="covid19" target="highthroughput" id="435" />
+      <edge source="covid19" target="demand" id="436" />
+      <edge source="covid19" target="normal" id="437" />
+      <edge source="covid19" target="prior" id="438" />
+      <edge source="covid19" target="community" id="439" />
+      <edge source="covid19" target="detect" id="440" />
+      <edge source="covid19" target="coronaviruspandemic" id="441" />
+      <edge source="covid19" target="reducing" id="442" />
+      <edge source="covid19" target="register" id="443" />
+      <edge source="covid19" target="drug" id="444" />
+      <edge source="covid19" target="communities" id="445" />
+      <edge source="covid19" target="complications" id="446" />
+      <edge source="covid19" target="develop" id="447" />
+      <edge source="covid19" target="recover" id="448" />
+      <edge source="covid19" target="digital" id="449" />
+      <edge source="covid19" target="challenges" id="450" />
+      <edge source="covid19" target="estimated" id="451" />
+      <edge source="covid19" target="overcome" id="452" />
+      <edge source="covid19" target="bad" id="453" />
+      <edge source="covid19" target="became" id="454" />
+      <edge source="covid19" target="ai" id="455" />
+      <edge source="covid19" target="accelerating" id="456" />
+      <edge source="covid19" target="830pm" id="457" />
+      <edge source="covid19" target="227" id="458" />
+      <edge source="covid19" target="19" id="459" />
+      <edge source="covid19" target="caseload" id="460" />
+      <edge source="covid19" target="cause" id="461" />
+      <edge source="covid19" target="causing" id="462" />
+      <edge source="covid19" target="hope" id="463" />
+      <edge source="covid19" target="poll" id="464" />
+      <edge source="covid19" target="politics" id="465" />
+      <edge source="covid19" target="business" id="466" />
+      <edge source="covid19" target="coronavirusindia" id="467" />
+      <edge source="covid19" target="bill" id="468" />
+      <edge source="covid19" target="bloomberg" id="469" />
+      <edge source="covid19" target="orders" id="470" />
+      <edge source="covid19" target="brexit" id="471" />
+      <edge source="covid19" target="every" id="472" />
+      <edge source="covid19" target="less" id="473" />
+      <edge source="covid19" target="lie" id="474" />
+      <edge source="covid19" target="soon" id="475" />
+      <edge source="covid19" target="led" id="476" />
+      <edge source="covid19" target="insurance" id="477" />
+      <edge source="covid19" target="show" id="478" />
+      <edge source="covid19" target="much" id="479" />
+      <edge source="covid19" target="better" id="480" />
+      <edge source="covid19" target="must" id="481" />
+      <edge source="covid19" target="misinformation" id="482" />
+      <edge source="covid19" target="look" id="483" />
+      <edge source="covid19" target="march" id="484" />
+      <edge source="covid19" target="blood" id="485" />
+      <edge source="covid19" target="exposed" id="486" />
+      <edge source="covid19" target="director" id="487" />
+      <edge source="covid19" target="forcing" id="488" />
+      <edge source="covid19" target="child" id="489" />
+      <edge source="covid19" target="excuse" id="490" />
+      <edge source="covid19" target="reporting" id="491" />
+      <edge source="covid19" target="experts" id="492" />
+      <edge source="covid19" target="hotspot" id="493" />
+      <edge source="covid19" target="hotspots" id="494" />
+      <edge source="covid19" target="school" id="495" />
+      <edge source="covid19" target="season" id="496" />
+      <edge source="covid19" target="frontline" id="497" />
+      <edge source="covid19" target="healthcare" id="498" />
+      <edge source="covid19" target="disrupted" id="499" />
+      <edge source="covid19" target="distancing" id="500" />
+      <edge source="cases" target="positive" id="501" />
+      <edge source="cases" target="new" id="502" />
+      <edge source="cases" target="number" id="503" />
+      <edge source="cases" target="coronavirus" id="504" />
+      <edge source="cases" target="amp" id="505" />
+      <edge source="cases" target="reported" id="506" />
+      <edge source="cases" target="active" id="507" />
+      <edge source="cases" target="last" id="508" />
+      <edge source="cases" target="risk" id="509" />
+      <edge source="cases" target="sooner" id="510" />
+      <edge source="cases" target="total" id="511" />
+      <edge source="cases" target="deaths" id="512" />
+      <edge source="cases" target="india" id="513" />
+      <edge source="cases" target="state" id="514" />
+      <edge source="cases" target="confirmed" id="515" />
+      <edge source="cases" target="24" id="516" />
+      <edge source="cases" target="rise" id="517" />
+      <edge source="cases" target="today" id="518" />
+      <edge source="cases" target="covid" id="519" />
+      <edge source="cases" target="per" id="520" />
+      <edge source="cases" target="fresh" id="521" />
+      <edge source="cases" target="including" id="522" />
+      <edge source="cases" target="recovered" id="523" />
+      <edge source="cases" target="local" id="524" />
+      <edge source="cases" target="global" id="525" />
+      <edge source="cases" target="taking" id="526" />
+      <edge source="cases" target="maharashtra" id="527" />
+      <edge source="cases" target="day" id="528" />
+      <edge source="cases" target="941" id="529" />
+      <edge source="cases" target="944" id="530" />
+      <edge source="cases" target="lakh" id="531" />
+      <edge source="cases" target="read" id="532" />
+      <edge source="cases" target="death" id="533" />
+      <edge source="cases" target="johns" id="534" />
+      <edge source="cases" target="10" id="535" />
+      <edge source="cases" target="49931" id="536" />
+      <edge source="cases" target="rises" id="537" />
+      <edge source="cases" target="daily" id="538" />
+      <edge source="cases" target="in" id="539" />
+      <edge source="cases" target="64399" id="540" />
+      <edge source="cases" target="million" id="541" />
+      <edge source="cases" target="12" id="542" />
+      <edge source="cases" target="861" id="543" />
+      <edge source="cases" target="past" id="544" />
+      <edge source="cases" target="detected" id="545" />
+      <edge source="cases" target="stands" id="546" />
+      <edge source="cases" target="since" id="547" />
+      <edge source="cases" target="57982" id="548" />
+      <edge source="cases" target="positives" id="549" />
+      <edge source="cases" target="69878" id="550" />
+      <edge source="cases" target="1007" id="551" />
+      <edge source="cases" target="tally" id="552" />
+      <edge source="cases" target="saturday" id="553" />
+      <edge source="cases" target="reaches" id="554" />
+      <edge source="cases" target="corona" id="555" />
+      <edge source="cases" target="64553" id="556" />
+      <edge source="cases" target="945" id="557" />
+      <edge source="cases" target="matters" id="558" />
+      <edge source="cases" target="odisha" id="559" />
+      <edge source="cases" target="push" id="560" />
+      <edge source="cases" target="take" id="561" />
+      <edge source="cases" target="spike" id="562" />
+      <edge source="cases" target="tests" id="563" />
+      <edge source="cases" target="top" id="564" />
+      <edge source="cases" target="worldwide" id="565" />
+      <edge source="cases" target="recorded" id="566" />
+      <edge source="cases" target="virus" id="567" />
+      <edge source="cases" target="63489" id="568" />
+      <edge source="cases" target="48" id="569" />
+      <edge source="cases" target="children" id="570" />
+      <edge source="cases" target="increasing" id="571" />
+      <edge source="cases" target="one" id="572" />
+      <edge source="cases" target="surge" id="573" />
+      <edge source="cases" target="average" id="574" />
+      <edge source="cases" target="without" id="575" />
+      <edge source="cases" target="hit" id="576" />
+      <edge source="cases" target="country" id="577" />
+      <edge source="cases" target="climbs" id="578" />
+      <edge source="cases" target="and" id="579" />
+      <edge source="cases" target="803" id="580" />
+      <edge source="cases" target="16" id="581" />
+      <edge source="cases" target="13" id="582" />
+      <edge source="cases" target="hospitalizations" id="583" />
+      <edge source="cases" target="reach" id="584" />
+      <edge source="cases" target="stand" id="585" />
+      <edge source="cases" target="single" id="586" />
+      <edge source="cases" target="rising" id="587" />
+      <edge source="cases" target="telangana" id="588" />
+      <edge source="cases" target="still" id="589" />
+      <edge source="cases" target="world" id="590" />
+      <edge source="global" target="pandemic" id="591" />
+      <edge source="global" target="coronavirus" id="592" />
+      <edge source="global" target="pa" id="593" />
+      <edge source="global" target="pan" id="594" />
+      <edge source="global" target="protests" id="595" />
+      <edge source="global" target="says" id="596" />
+      <edge source="global" target="pande" id="597" />
+      <edge source="global" target="10" id="598" />
+      <edge source="global" target="protesters" id="599" />
+      <edge source="global" target="developments" id="600" />
+      <edge source="global" target="protest" id="601" />
+      <edge source="global" target="portland" id="602" />
+      <edge source="global" target="2019ncov" id="603" />
+      <edge source="global" target="deaths" id="604" />
+      <edge source="global" target="restrictions" id="605" />
+      <edge source="global" target="riots" id="606" />
+      <edge source="global" target="health" id="607" />
+      <edge source="global" target="masks" id="608" />
+      <edge source="global" target="food" id="609" />
+      <edge source="global" target="mask" id="610" />
+      <edge source="global" target="pandemi" id="611" />
+      <edge source="global" target="pandem" id="612" />
+      <edge source="global" target="concerns" id="613" />
+      <edge source="global" target="say" id="614" />
+      <edge source="pandemic" target="news" id="615" />
+      <edge source="pandemic" target="coronavirus" id="616" />
+      <edge source="pandemic" target="biden" id="617" />
+      <edge source="pandemic" target="new" id="618" />
+      <edge source="pandemic" target="ne" id="619" />
+      <edge source="pandemic" target="due" id="620" />
+      <edge source="pandemic" target="since" id="621" />
+      <edge source="pandemic" target="via" id="622" />
+      <edge source="pandemic" target="coronavirusstories" id="623" />
+      <edge source="pandemic" target="amp" id="624" />
+      <edge source="pandemic" target="months" id="625" />
+      <edge source="pandemic" target="started" id="626" />
+      <edge source="pandemic" target="could" id="627" />
+      <edge source="pandemic" target="brought" id="628" />
+      <edge source="pandemic" target="hit" id="629" />
+      <edge source="pandemic" target="began" id="630" />
+      <edge source="pandemic" target="amid" id="631" />
+      <edge source="pandemic" target="restrictions" id="632" />
+      <edge source="pandemic" target="real" id="633" />
+      <edge source="pandemic" target="continues" id="634" />
+      <edge source="pandemic" target="created" id="635" />
+      <edge source="pandemic" target="india" id="636" />
+      <edge source="pandemic" target="harris" id="637" />
+      <edge source="pandemic" target="read" id="638" />
+      <edge source="news" target="coronavirus" id="639" />
+      <edge source="news" target="good" id="640" />
+      <edge source="news" target="ctv" id="641" />
+      <edge source="news" target="movie" id="642" />
+      <edge source="news" target="bbc" id="643" />
+      <edge source="news" target="digest" id="644" />
+      <edge source="news" target="breaking" id="645" />
+      <edge source="news" target="digital" id="646" />
+      <edge source="news" target="fieldservice" id="647" />
+      <edge source="news" target="abc" id="648" />
+      <edge source="news" target="morning" id="649" />
+      <edge source="news" target="live" id="650" />
+      <edge source="news" target="think" id="651" />
+      <edge source="news" target="lexagene" id="652" />
+      <edge source="coronavirus" target="covid" id="653" />
+      <edge source="coronavirus" target="trump" id="654" />
+      <edge source="coronavirus" target="cdc" id="655" />
+      <edge source="coronavirus" target="vaccine" id="656" />
+      <edge source="coronavirus" target="novel" id="657" />
+      <edge source="coronavirus" target="new" id="658" />
+      <edge source="coronavirus" target="positive" id="659" />
+      <edge source="coronavirus" target="outbreak" id="660" />
+      <edge source="coronavirus" target="alert" id="661" />
+      <edge source="coronavirus" target="live" id="662" />
+      <edge source="coronavirus" target="deaths" id="663" />
+      <edge source="coronavirus" target="daily" id="664" />
+      <edge source="coronavirus" target="infections" id="665" />
+      <edge source="coronavirus" target="2020" id="666" />
+      <edge source="coronavirus" target="report" id="667" />
+      <edge source="coronavirus" target="relief" id="668" />
+      <edge source="coronavirus" target="amid" id="669" />
+      <edge source="coronavirus" target="updates" id="670" />
+      <edge source="coronavirus" target="coronaviruspandemic" id="671" />
+      <edge source="coronavirus" target="testing" id="672" />
+      <edge source="coronavirus" target="disease" id="673" />
+      <edge source="coronavirus" target="tests" id="674" />
+      <edge source="coronavirus" target="first" id="675" />
+      <edge source="coronavirus" target="morning" id="676" />
+      <edge source="coronavirus" target="uk" id="677" />
+      <edge source="coronavirus" target="via" id="678" />
+      <edge source="coronavirus" target="indias" id="679" />
+      <edge source="coronavirus" target="update" id="680" />
+      <edge source="coronavirus" target="read" id="681" />
+      <edge source="coronavirus" target="latest" id="682" />
+      <edge source="coronavirus" target="crisis" id="683" />
+      <edge source="coronavirus" target="spread" id="684" />
+      <edge source="coronavirus" target="wales" id="685" />
+      <edge source="coronavirus" target="death" id="686" />
+      <edge source="coronavirus" target="strain" id="687" />
+      <edge source="coronavirus" target="vaccines" id="688" />
+      <edge source="coronavirus" target="restrictions" id="689" />
+      <edge source="coronavirus" target="case" id="690" />
+      <edge source="coronavirus" target="get" id="691" />
+      <edge source="coronavirus" target="aka" id="692" />
+      <edge source="coronavirus" target="died" id="693" />
+      <edge source="coronavirus" target="cov" id="694" />
+      <edge source="coronavirus" target="india" id="695" />
+      <edge source="coronavirus" target="sarscov2" id="696" />
+      <edge source="coronavirus" target="due" id="697" />
+      <edge source="coronavirus" target="post" id="698" />
+      <edge source="coronavirus" target="corona" id="699" />
+      <edge source="coronavirus" target="lockdown" id="700" />
+      <edge source="coronavirus" target="response" id="701" />
+      <edge source="coronavirus" target="source" id="702" />
+      <edge source="coronavirus" target="total" id="703" />
+      <edge source="coronavirus" target="scotland" id="704" />
+      <edge source="coronavirus" target="fight" id="705" />
+      <edge source="coronavirus" target="cyprus" id="706" />
+      <edge source="coronavirus" target="1000" id="707" />
+      <edge source="coronavirus" target="coronavirus" id="708" />
+      <edge source="coronavirus" target="follow" id="709" />
+      <edge source="coronavirus" target="ill" id="710" />
+      <edge source="coronavirus" target="infection" id="711" />
+      <edge source="coronavirus" target="number" id="712" />
+      <edge source="coronavirus" target="patients" id="713" />
+      <edge source="coronavirus" target="texas" id="714" />
+      <edge source="coronavirus" target="covidー19" id="715" />
+      <edge source="coronavirus" target="may" id="716" />
+      <edge source="coronavirus" target="million" id="717" />
+      <edge source="coronavirus" target="mark" id="718" />
+      <edge source="coronavirus" target="wand" id="719" />
+      <edge source="coronavirus" target="stories" id="720" />
+      <edge source="coronavirus" target="guernsey" id="721" />
+      <edge source="coronavirus" target="caseload" id="722" />
+      <edge source="coronavirus" target="deal" id="723" />
+      <edge source="coronavirus" target="task" id="724" />
+      <edge source="coronavirus" target="outbreaks" id="725" />
+      <edge source="coronavirus" target="coronavirusinindia" id="726" />
+      <edge source="new" target="zealand" id="727" />
+      <edge source="new" target="york" id="728" />
+      <edge source="new" target="normal" id="729" />
+      <edge source="new" target="deaths" id="730" />
+      <edge source="new" target="report" id="731" />
+      <edge source="new" target="recoveries" id="732" />
+      <edge source="new" target="78761" id="733" />
+      <edge source="new" target="alert" id="734" />
+      <edge source="new" target="study" id="735" />
+      <edge source="new" target="research" id="736" />
+      <edge source="new" target="number" id="737" />
+      <edge source="new" target="1376" id="738" />
+      <edge source="new" target="data" id="739" />
+      <edge source="new" target="strain" id="740" />
+      <edge source="new" target="blog" id="741" />
+      <edge source="new" target="covid" id="742" />
+      <edge source="new" target="infections" id="743" />
+      <edge source="new" target="positive" id="744" />
+      <edge source="new" target="cov" id="745" />
+      <edge source="new" target="48661" id="746" />
+      <edge source="new" target="case" id="747" />
+      <edge source="new" target="episode" id="748" />
+      <edge source="new" target="update" id="749" />
+      <edge source="new" target="1000" id="750" />
+      <edge source="new" target="1215" id="751" />
+      <edge source="new" target="13" id="752" />
+      <edge source="new" target="1734" id="753" />
+      <edge source="new" target="1503" id="754" />
+      <edge source="new" target="1320" id="755" />
+      <edge source="new" target="2819" id="756" />
+      <edge source="new" target="4267" id="757" />
+      <edge source="new" target="48916" id="758" />
+      <edge source="new" target="63489" id="759" />
+      <edge source="new" target="64553" id="760" />
+      <edge source="new" target="jersey" id="761" />
+      <edge source="new" target="video" id="762" />
+      <edge source="new" target="series" id="763" />
+      <edge source="new" target="guidelines" id="764" />
+      <edge source="new" target="high" id="765" />
+      <edge source="new" target="virus" id="766" />
+      <edge source="new" target="adapt" id="767" />
+      <edge source="new" target="1981" id="768" />
+      <edge source="new" target="23" id="769" />
+      <edge source="new" target="2244" id="770" />
+      <edge source="new" target="creates" id="771" />
+      <edge source="new" target="1384" id="772" />
+      <edge source="new" target="69878" id="773" />
+      <edge source="new" target="6805" id="774" />
+      <edge source="new" target="according" id="775" />
+      <edge source="new" target="52050" id="776" />
+      <edge source="new" target="50000" id="777" />
+      <edge source="new" target="47704" id="778" />
+      <edge source="new" target="ways" id="779" />
+      <edge source="new" target="way" id="780" />
+      <edge source="new" target="corona" id="781" />
+      <edge source="new" target="confirmed" id="782" />
+      <edge source="24" target="hours" id="783" />
+      <edge source="24" target="last" id="784" />
+      <edge source="24" target="hrs" id="785" />
+      <edge source="24" target="deaths" id="786" />
+      <edge source="24" target="past" id="787" />
+      <edge source="24" target="july" id="788" />
+      <edge source="24" target="hoursthe" id="789" />
+      <edge source="24" target="2020" id="790" />
+      <edge source="24" target="lakh" id="791" />
+      <edge source="hours" target="total" id="792" />
+      <edge source="hours" target="taking" id="793" />
+      <edge source="hours" target="india" id="794" />
+      <edge source="hours" target="tally" id="795" />
+      <edge source="hours" target="report" id="796" />
+      <edge source="hours" target="maharashtra" id="797" />
+      <edge source="hours" target="indias" id="798" />
+      <edge source="hours" target="rtpcr" id="799" />
+      <edge source="last" target="india" id="800" />
+      <edge source="last" target="deaths" id="801" />
+      <edge source="last" target="updated" id="802" />
+      <edge source="last" target="reported" id="803" />
+      <edge source="last" target="updatesindia" id="804" />
+      <edge source="last" target="week" id="805" />
+      <edge source="last" target="night" id="806" />
+      <edge source="last" target="died" id="807" />
+      <edge source="last" target="tests" id="808" />
+      <edge source="last" target="year" id="809" />
+      <edge source="last" target="two" id="810" />
+      <edge source="last" target="test" id="811" />
+      <edge source="last" target="conducted" id="812" />
+      <edge source="last" target="recoveries" id="813" />
+      <edge source="last" target="day" id="814" />
+      <edge source="last" target="days" id="815" />
+      <edge source="last" target="months" id="816" />
+      <edge source="last" target="month" id="817" />
+      <edge source="last" target="uk" id="818" />
+      <edge source="last" target="odisha" id="819" />
+      <edge source="last" target="discharged" id="820" />
+      <edge source="positive" target="tested" id="821" />
+      <edge source="positive" target="tests" id="822" />
+      <edge source="positive" target="test" id="823" />
+      <edge source="positive" target="total" id="824" />
+      <edge source="positive" target="number" id="825" />
+      <edge source="positive" target="status" id="826" />
+      <edge source="positive" target="testing" id="827" />
+      <edge source="positive" target="case" id="828" />
+      <edge source="positive" target="patients" id="829" />
+      <edge source="positive" target="sarscov2" id="830" />
+      <edge source="positive" target="47704" id="831" />
+      <edge source="positive" target="48661" id="832" />
+      <edge source="positive" target="cas" id="833" />
+      <edge source="positive" target="amp" id="834" />
+      <edge source="positive" target="covid" id="835" />
+      <edge source="positive" target="48916" id="836" />
+      <edge source="positive" target="52050" id="837" />
+      <edge source="positive" target="corona" id="838" />
+      <edge source="died" target="americans" id="839" />
+      <edge source="died" target="people" id="840" />
+      <edge source="died" target="brother" id="841" />
+      <edge source="died" target="due" id="842" />
+      <edge source="died" target="one" id="843" />
+      <edge source="vaccine" target="trials" id="844" />
+      <edge source="vaccine" target="trial" id="845" />
+      <edge source="vaccine" target="covid" id="846" />
+      <edge source="vaccine" target="16" id="847" />
+      <edge source="vaccine" target="candidate" id="848" />
+      <edge source="vaccine" target="putins" id="849" />
+      <edge source="vaccine" target="mrna1273" id="850" />
+      <edge source="vaccine" target="likely" id="851" />
+      <edge source="vaccine" target="effective" id="852" />
+      <edge source="vaccine" target="russia" id="853" />
+      <edge source="vaccine" target="could" id="854" />
+      <edge source="vaccine" target="available" id="855" />
+      <edge source="vaccine" target="development" id="856" />
+      <edge source="vaccine" target="doses" id="857" />
+      <edge source="vaccine" target="patent" id="858" />
+      <edge source="vaccine" target="ready" id="859" />
+      <edge source="vaccine" target="russian" id="860" />
+      <edge source="total" target="number" id="861" />
+      <edge source="total" target="today" id="862" />
+      <edge source="total" target="taking" id="863" />
+      <edge source="total" target="tally" id="864" />
+      <edge source="total" target="deaths" id="865" />
+      <edge source="total" target="maharashtra" id="866" />
+      <edge source="total" target="pm" id="867" />
+      <edge source="total" target="india" id="868" />
+      <edge source="total" target="icmr" id="869" />
+      <edge source="total" target="no" id="870" />
+      <edge source="total" target="count" id="871" />
+      <edge source="total" target="confirmed" id="872" />
+      <edge source="total" target="cumulative" id="873" />
+      <edge source="total" target="recovered" id="874" />
+      <edge source="total" target="8pm" id="875" />
+      <edge source="total" target="update" id="876" />
+      <edge source="total" target="rajasthan" id="877" />
+      <edge source="total" target="state" id="878" />
+      <edge source="number" target="daily" id="879" />
+      <edge source="number" target="highest" id="880" />
+      <edge source="number" target="record" id="881" />
+      <edge source="number" target="additional" id="882" />
+      <edge source="number" target="people" id="883" />
+      <edge source="number" target="samples" id="884" />
+      <edge source="number" target="of" id="885" />
+      <edge source="number" target="deaths" id="886" />
+      <edge source="number" target="risen" id="887" />
+      <edge source="number" target="2020" id="888" />
+      <edge source="americans" target="179200" id="889" />
+      <edge source="americans" target="172606" id="890" />
+      <edge source="americans" target="186855" id="891" />
+      <edge source="americans" target="170415" id="892" />
+      <edge source="americans" target="173128" id="893" />
+      <edge source="americans" target="dead" id="894" />
+      <edge source="americans" target="167749" id="895" />
+      <edge source="americans" target="166192" id="896" />
+      <edge source="americans" target="165070" id="897" />
+      <edge source="americans" target="169131" id="898" />
+      <edge source="americans" target="165074" id="899" />
+      <edge source="worldwide" target="abo" id="900" />
+      <edge source="worldwide" target="deaths" id="901" />
+      <edge source="worldwide" target="storm" id="902" />
+      <edge source="worldwide" target="hope" id="903" />
+      <edge source="worldwide" target="statistics" id="904" />
+      <edge source="worldwide" target="0550" id="905" />
+      <edge source="deaths" target="reported" id="906" />
+      <edge source="deaths" target="india" id="907" />
+      <edge source="deaths" target="amp" id="908" />
+      <edge source="deaths" target="226" id="909" />
+      <edge source="deaths" target="225" id="910" />
+      <edge source="deaths" target="221" id="911" />
+      <edge source="deaths" target="223" id="912" />
+      <edge source="deaths" target="229" id="913" />
+      <edge source="deaths" target="224" id="914" />
+      <edge source="deaths" target="705" id="915" />
+      <edge source="deaths" target="1007" id="916" />
+      <edge source="deaths" target="944" id="917" />
+      <edge source="deaths" target="12" id="918" />
+      <edge source="deaths" target="uk" id="919" />
+      <edge source="deaths" target="941" id="920" />
+      <edge source="deaths" target="708" id="921" />
+      <edge source="deaths" target="803" id="922" />
+      <edge source="deaths" target="10" id="923" />
+      <edge source="deaths" target="861" id="924" />
+      <edge source="deaths" target="948" id="925" />
+      <edge source="deaths" target="654" id="926" />
+      <edge source="deaths" target="757" id="927" />
+      <edge source="deaths" target="230" id="928" />
+      <edge source="deaths" target="945" id="929" />
+      <edge source="deaths" target="due" id="930" />
+      <edge source="deaths" target="excess" id="931" />
+      <edge source="deaths" target="228" id="932" />
+      <edge source="deaths" target="231" id="933" />
+      <edge source="deaths" target="covid" id="934" />
+      <edge source="deaths" target="13" id="935" />
+      <edge source="deaths" target="reports" id="936" />
+      <edge source="deaths" target="taking" id="937" />
+      <edge source="deaths" target="1000" id="938" />
+      <edge source="deaths" target="updates" id="939" />
+      <edge source="deaths" target="state" id="940" />
+      <edge source="deaths" target="read" id="941" />
+      <edge source="deaths" target="pushes" id="942" />
+      <edge source="deaths" target="93" id="943" />
+      <edge source="deaths" target="infections" id="944" />
+      <edge source="deaths" target="23" id="945" />
+      <edge source="deaths" target="227" id="946" />
+      <edge source="deaths" target="16" id="947" />
+      <edge source="deaths" target="834" id="948" />
+      <edge source="deaths" target="related" id="949" />
+      <edge source="deaths" target="74" id="950" />
+      <edge source="reported" target="india" id="951" />
+      <edge source="reported" target="state" id="952" />
+      <edge source="reported" target="odisha" id="953" />
+      <edge source="reported" target="recoveries" id="954" />
+      <edge source="reported" target="residents" id="955" />
+      <edge source="reported" target="telangana" id="956" />
+      <edge source="reported" target="death" id="957" />
+      <edge source="reported" target="rajasthan" id="958" />
+      <edge source="reported" target="puducherry" id="959" />
+      <edge source="reported" target="maharashtra" id="960" />
+      <edge source="reported" target="delhi" id="961" />
+      <edge source="reported" target="karnataka" id="962" />
+      <edge source="reported" target="today" id="963" />
+      <edge source="reported" target="goa" id="964" />
+      <edge source="reported" target="date" id="965" />
+      <edge source="reported" target="florida" id="966" />
+      <edge source="reported" target="jharkhand" id="967" />
+      <edge source="reported" target="west" id="968" />
+      <edge source="reported" target="highest" id="969" />
+      <edge source="reported" target="the" id="970" />
+      <edge source="due" target="to" id="971" />
+      <edge source="due" target="covid" id="972" />
+      <edge source="due" target="home" id="973" />
+      <edge source="due" target="lockdown" id="974" />
+      <edge source="due" target="year" id="975" />
+      <edge source="due" target="epidemic" id="976" />
+      <edge source="due" target="changed" id="977" />
+      <edge source="spread" target="slow" id="978" />
+      <edge source="spread" target="curb" id="979" />
+      <edge source="spread" target="stop" id="980" />
+      <edge source="spread" target="community" id="981" />
+      <edge source="spread" target="prevent" id="982" />
+      <edge source="spread" target="virus" id="983" />
+      <edge source="spread" target="of" id="984" />
+      <edge source="spread" target="amp" id="985" />
+      <edge source="covid" target="19" id="986" />
+      <edge source="covid" target="patients" id="987" />
+      <edge source="covid" target="indias" id="988" />
+      <edge source="covid" target="tests" id="989" />
+      <edge source="covid" target="care" id="990" />
+      <edge source="covid" target="death" id="991" />
+      <edge source="covid" target="tally" id="992" />
+      <edge source="covid" target="times" id="993" />
+      <edge source="covid" target="get" id="994" />
+      <edge source="covid" target="test" id="995" />
+      <edge source="read" target="cdc" id="996" />
+      <edge source="read" target="more" id="997" />
+      <edge source="read" target="latest" id="998" />
+      <edge source="read" target="live" id="999" />
+      <edge source="read" target="2020" id="1000" />
+      <edge source="read" target="full" id="1001" />
+      <edge source="read" target="says" id="1002" />
+      <edge source="read" target="mor" id="1003" />
+      <edge source="read" target="florida" id="1004" />
+      <edge source="read" target="interesting" id="1005" />
+      <edge source="read" target="updates" id="1006" />
+      <edge source="read" target="article" id="1007" />
+      <edge source="cdc" target="says" id="1008" />
+      <edge source="death" target="toll" id="1009" />
+      <edge source="death" target="cause" id="1010" />
+      <edge source="death" target="rate" id="1011" />
+      <edge source="death" target="amp" id="1012" />
+      <edge source="death" target="india" id="1013" />
+      <edge source="death" target="count" id="1014" />
+      <edge source="death" target="daily" id="1015" />
+      <edge source="death" target="taking" id="1016" />
+      <edge source="death" target="trend" id="1017" />
+      <edge source="death" target="details" id="1018" />
+      <edge source="death" target="rates" id="1019" />
+      <edge source="death" target="recorded" id="1020" />
+      <edge source="toll" target="rises" id="1021" />
+      <edge source="toll" target="crosses" id="1022" />
+      <edge source="toll" target="jk" id="1023" />
+      <edge source="toll" target="reaches" id="1024" />
+      <edge source="tested" target="samples" id="1025" />
+      <edge source="tested" target="negative" id="1026" />
+      <edge source="tested" target="people" id="1027" />
+      <edge source="tested" target="yesterday" id="1028" />
+      <edge source="tested" target="yester" id="1029" />
+      <edge source="tested" target="get" id="1030" />
+      <edge source="tested" target="india" id="1031" />
+      <edge source="tested" target="children" id="1032" />
+      <edge source="tested" target="says" id="1033" />
+      <edge source="tested" target="till" id="1034" />
+      <edge source="tested" target="ji" id="1035" />
+      <edge source="tally" target="crosses" id="1036" />
+      <edge source="tally" target="rises" id="1037" />
+      <edge source="tally" target="country" id="1038" />
+      <edge source="tally" target="case" id="1039" />
+      <edge source="tally" target="state" id="1040" />
+      <edge source="tally" target="taking" id="1041" />
+      <edge source="tally" target="cross" id="1042" />
+      <edge source="tally" target="states" id="1043" />
+      <edge source="tally" target="india" id="1044" />
+      <edge source="tally" target="surges" id="1045" />
+      <edge source="tally" target="indias" id="1046" />
+      <edge source="tally" target="climbs" id="1047" />
+      <edge source="tally" target="reaches" id="1048" />
+      <edge source="tally" target="tops" id="1049" />
+      <edge source="tally" target="statewise" id="1050" />
+      <edge source="patients" target="recovered" id="1051" />
+      <edge source="patients" target="increased" id="1052" />
+      <edge source="patients" target="discharged" id="1053" />
+      <edge source="patients" target="need" id="1054" />
+      <edge source="patients" target="admitted" id="1055" />
+      <edge source="amp" target="health" id="1056" />
+      <edge source="amp" target="recoveries" id="1057" />
+      <edge source="amp" target="discharges" id="1058" />
+      <edge source="amp" target="705" id="1059" />
+      <edge source="amp" target="like" id="1060" />
+      <edge source="amp" target="retweet" id="1061" />
+      <edge source="amp" target="highest" id="1062" />
+      <edge source="amp" target="803" id="1063" />
+      <edge source="amp" target="654" id="1064" />
+      <edge source="amp" target="social" id="1065" />
+      <edge source="amp" target="948" id="1066" />
+      <edge source="amp" target="757" id="1067" />
+      <edge source="amp" target="trump" id="1068" />
+      <edge source="amp" target="recovered" id="1069" />
+      <edge source="amp" target="purpose" id="1070" />
+      <edge source="amp" target="values" id="1071" />
+      <edge source="amp" target="12" id="1072" />
+      <edge source="amp" target="family" id="1073" />
+      <edge source="amp" target="nih" id="1074" />
+      <edge source="amp" target="day" id="1075" />
+      <edge source="amp" target="macau" id="1076" />
+      <edge source="amp" target="order" id="1077" />
+      <edge source="amp" target="moderna" id="1078" />
+      <edge source="amp" target="one" id="1079" />
+      <edge source="amp" target="access" id="1080" />
+      <edge source="amp" target="exposed" id="1081" />
+      <edge source="amp" target="ceo" id="1082" />
+      <edge source="amp" target="business" id="1083" />
+      <edge source="amp" target="10" id="1084" />
+      <edge source="amp" target="johnson" id="1085" />
+      <edge source="amp" target="jobs" id="1086" />
+      <edge source="amp" target="founder" id="1087" />
+      <edge source="amp" target="phone" id="1088" />
+      <edge source="amp" target="india" id="1089" />
+      <edge source="tests" target="negative" id="1090" />
+      <edge source="tests" target="conducted" id="1091" />
+      <edge source="tests" target="day" id="1092" />
+      <edge source="tests" target="minister" id="1093" />
+      <edge source="tests" target="per" id="1094" />
+      <edge source="tests" target="yediyurappa" id="1095" />
+      <edge source="tests" target="siddaramaiah" id="1096" />
+      <edge source="tests" target="lakh" id="1097" />
+      <edge source="tests" target="chouhan" id="1098" />
+      <edge source="tests" target="cm" id="1099" />
+      <edge source="tests" target="shah" id="1100" />
+      <edge source="tests" target="single" id="1101" />
+      <edge source="tests" target="shivrajsinghchouhan" id="1102" />
+      <edge source="tests" target="das" id="1103" />
+      <edge source="active" target="case" id="1104" />
+      <edge source="active" target="rate" id="1105" />
+      <edge source="active" target="628747" id="1106" />
+      <edge source="active" target="days" id="1107" />
+      <edge source="more" target="learn" id="1108" />
+      <edge source="crisis" target="health" id="1109" />
+      <edge source="crisis" target="food" id="1110" />
+      <edge source="crisis" target="push" id="1111" />
+      <edge source="crisis" target="economic" id="1112" />
+      <edge source="recovery" target="rate" id="1113" />
+      <edge source="recovery" target="day" id="1114" />
+      <edge source="recovery" target="speedy" id="1115" />
+      <edge source="recovery" target="economic" id="1116" />
+      <edge source="recovery" target="matters" id="1117" />
+      <edge source="rate" target="fatality" id="1118" />
+      <edge source="rate" target="positivity" id="1119" />
+      <edge source="rate" target="growth" id="1120" />
+      <edge source="rate" target="among" id="1121" />
+      <edge source="rate" target="mortality" id="1122" />
+      <edge source="rate" target="excess" id="1123" />
+      <edge source="rate" target="country" id="1124" />
+      <edge source="rate" target="stands" id="1125" />
+      <edge source="rate" target="infection" id="1126" />
+      <edge source="singleday" target="spike" id="1127" />
+      <edge source="singleday" target="highest" id="1128" />
+      <edge source="singleday" target="biggest" id="1129" />
+      <edge source="singleday" target="reports" id="1130" />
+      <edge source="spike" target="day" id="1131" />
+      <edge source="spike" target="64553" id="1132" />
+      <edge source="spike" target="78761" id="1133" />
+      <edge source="spike" target="64399" id="1134" />
+      <edge source="spike" target="49931" id="1135" />
+      <edge source="spike" target="47704" id="1136" />
+      <edge source="spike" target="48661" id="1137" />
+      <edge source="spike" target="48916" id="1138" />
+      <edge source="spike" target="52050" id="1139" />
+      <edge source="spike" target="57982" id="1140" />
+      <edge source="spike" target="63489" id="1141" />
+      <edge source="spike" target="mark" id="1142" />
+      <edge source="spike" target="69878" id="1143" />
+      <edge source="spike" target="60963" id="1144" />
+      <edge source="samples" target="test" id="1145" />
+      <edge source="samples" target="contacts" id="1146" />
+      <edge source="india" target="reports" id="1147" />
+      <edge source="india" target="records" id="1148" />
+      <edge source="india" target="crosses" id="1149" />
+      <edge source="india" target="recorded" id="1150" />
+      <edge source="india" target="bignews" id="1151" />
+      <edge source="india" target="cross" id="1152" />
+      <edge source="india" target="telangana" id="1153" />
+      <edge source="india" target="source" id="1154" />
+      <edge source="india" target="update" id="1155" />
+      <edge source="india" target="across" id="1156" />
+      <edge source="india" target="developments" id="1157" />
+      <edge source="india" target="crossed" id="1158" />
+      <edge source="india" target="live" id="1159" />
+      <edge source="india" target="1030" id="1160" />
+      <edge source="india" target="tracker" id="1161" />
+      <edge source="india" target="government" id="1162" />
+      <edge source="india" target="day" id="1163" />
+      <edge source="india" target="rise" id="1164" />
+      <edge source="india" target="belong" id="1165" />
+      <edge source="india" target="institute" id="1166" />
+      <edge source="india" target="million" id="1167" />
+      <edge source="india" target="conducts" id="1168" />
+      <edge source="india" target="july" id="1169" />
+      <edge source="india" target="sets" id="1170" />
+      <edge source="amid" target="lockdown" id="1171" />
+      <edge source="amid" target="even" id="1172" />
+      <edge source="amid" target="rising" id="1173" />
+      <edge source="testing" target="facilities" id="1174" />
+      <edge source="testing" target="lab" id="1175" />
+      <edge source="testing" target="available" id="1176" />
+      <edge source="testing" target="daily" id="1177" />
+      <edge source="today" target="taking" id="1178" />
+      <edge source="today" target="till" id="1179" />
+      <edge source="today" target="state" id="1180" />
+      <edge source="today" target="delhi" id="1181" />
+      <edge source="today" target="puducherry" id="1182" />
+      <edge source="today" target="1030" id="1183" />
+      <edge source="today" target="webinar" id="1184" />
+      <edge source="today" target="goa" id="1185" />
+      <edge source="today" target="bengal" id="1186" />
+      <edge source="today" target="maharashtra" id="1187" />
+      <edge source="today" target="vijayawada" id="1188" />
+      <edge source="today" target="pradesh" id="1189" />
+      <edge source="today" target="increase" id="1190" />
+      <edge source="today" target="pm" id="1191" />
+      <edge source="today" target="mumbai" id="1192" />
+      <edge source="trump" target="biden" id="1193" />
+      <edge source="trump" target="donald" id="1194" />
+      <edge source="trump" target="gop" id="1195" />
+      <edge source="trump" target="harris" id="1196" />
+      <edge source="trump" target="administration" id="1197" />
+      <edge source="trump" target="alert" id="1198" />
+      <edge source="trump" target="says" id="1199" />
+      <edge source="trump" target="president" id="1200" />
+      <edge source="trump" target="supporters" id="1201" />
+      <edge source="trump" target="robert" id="1202" />
+      <edge source="trump" target="said" id="1203" />
+      <edge source="fight" target="help" id="1204" />
+      <edge source="fight" target="helping" id="1205" />
+      <edge source="taking" target="odisha" id="1206" />
+      <edge source="taking" target="bihar" id="1207" />
+      <edge source="live" target="updates" id="1208" />
+      <edge source="live" target="follow" id="1209" />
+      <edge source="live" target="catch" id="1210" />
+      <edge source="live" target="people" id="1211" />
+      <edge source="live" target="standard" id="1212" />
+      <edge source="live" target="infections" id="1213" />
+      <edge source="live" target="track" id="1214" />
+      <edge source="live" target="webinar" id="1215" />
+      <edge source="live" target="update" id="1216" />
+      <edge source="live" target="events" id="1217" />
+      <edge source="live" target="brought" id="1218" />
+      <edge source="updates" target="latest" id="1219" />
+      <edge source="updates" target="novel" id="1220" />
+      <edge source="updates" target="daily" id="1221" />
+      <edge source="updates" target="andhra" id="1222" />
+      <edge source="updates" target="covid19us" id="1223" />
+      <edge source="slow" target="help" id="1224" />
+      <edge source="august" target="2020" id="1225" />
+      <edge source="august" target="15th" id="1226" />
+      <edge source="august" target="29" id="1227" />
+      <edge source="august" target="16th" id="1228" />
+      <edge source="august" target="till" id="1229" />
+      <edge source="august" target="infections" id="1230" />
+      <edge source="august" target="21st" id="1231" />
+      <edge source="august" target="13th" id="1232" />
+      <edge source="august" target="16" id="1233" />
+      <edge source="august" target="21" id="1234" />
+      <edge source="august" target="mohfw" id="1235" />
+      <edge source="august" target="report" id="1236" />
+      <edge source="august" target="29th" id="1237" />
+      <edge source="august" target="12" id="1238" />
+      <edge source="august" target="13" id="1239" />
+      <edge source="2020" target="july" id="1240" />
+      <edge source="2020" target="29" id="1241" />
+      <edge source="2020" target="ipl" id="1242" />
+      <edge source="2020" target="26" id="1243" />
+      <edge source="2020" target="season" id="1244" />
+      <edge source="2020" target="0800" id="1245" />
+      <edge source="2020" target="daily" id="1246" />
+      <edge source="2020" target="rtpcr" id="1247" />
+      <edge source="2020" target="aug" id="1248" />
+      <edge source="2020" target="day" id="1249" />
+      <edge source="2020" target="933" id="1250" />
+      <edge source="2020" target="16" id="1251" />
+      <edge source="2020" target="25" id="1252" />
+      <edge source="2020" target="half" id="1253" />
+      <edge source="wear" target="mask" id="1254" />
+      <edge source="wear" target="masks" id="1255" />
+      <edge source="wear" target="face" id="1256" />
+      <edge source="wear" target="please" id="1257" />
+      <edge source="wear" target="refusing" id="1258" />
+      <edge source="wear" target="deserted" id="1259" />
+      <edge source="wear" target="fucking" id="1260" />
+      <edge source="wear" target="refuse" id="1261" />
+      <edge source="wear" target="refused" id="1262" />
+      <edge source="mask" target="face" id="1263" />
+      <edge source="mask" target="wearing" id="1264" />
+      <edge source="mask" target="mandate" id="1265" />
+      <edge source="mask" target="protect" id="1266" />
+      <edge source="mask" target="order" id="1267" />
+      <edge source="mask" target="mandates" id="1268" />
+      <edge source="mask" target="fucking" id="1269" />
+      <edge source="biden" target="harris" id="1270" />
+      <edge source="biden" target="joe" id="1271" />
+      <edge source="help" target="need" id="1272" />
+      <edge source="help" target="return" id="1273" />
+      <edge source="help" target="movementpass" id="1274" />
+      <edge source="help" target="support" id="1275" />
+      <edge source="help" target="could" id="1276" />
+      <edge source="help" target="purpose" id="1277" />
+      <edge source="help" target="reconnect" id="1278" />
+      <edge source="help" target="please" id="1279" />
+      <edge source="help" target="others" id="1280" />
+      <edge source="help" target="tips" id="1281" />
+      <edge source="help" target="stop" id="1282" />
+      <edge source="help" target="get" id="1283" />
+      <edge source="help" target="businesses" id="1284" />
+      <edge source="help" target="prevent" id="1285" />
+      <edge source="help" target="people" id="1286" />
+      <edge source="single" target="day" id="1287" />
+      <edge source="single" target="conducted" id="1288" />
+      <edge source="single" target="highest" id="1289" />
+      <edge source="single" target="highestever" id="1290" />
+      <edge source="day" target="every" id="1291" />
+      <edge source="day" target="per" id="1292" />
+      <edge source="day" target="one" id="1293" />
+      <edge source="day" target="update" id="1294" />
+      <edge source="day" target="independence" id="1295" />
+      <edge source="day" target="recoveries" id="1296" />
+      <edge source="day" target="consecutive" id="1297" />
+      <edge source="day" target="first" id="1298" />
+      <edge source="day" target="day" id="1299" />
+      <edge source="day" target="10" id="1300" />
+      <edge source="day" target="opening" id="1301" />
+      <edge source="identify" target="risk" id="1302" />
+      <edge source="risk" target="high" id="1303" />
+      <edge source="risk" target="higher" id="1304" />
+      <edge source="sooner" target="selfreporting" id="1305" />
+      <edge source="selfreporting" target="symptoms" id="1306" />
+      <edge source="kids" target="childern" id="1307" />
+      <edge source="kids" target="back" id="1308" />
+      <edge source="kids" target="send" id="1309" />
+      <edge source="social" target="distancing" id="1310" />
+      <edge source="social" target="media" id="1311" />
+      <edge source="social" target="distance" id="1312" />
+      <edge source="social" target="masks" id="1313" />
+      <edge source="fresh" target="49931" id="1314" />
+      <edge source="symptoms" target="daily" id="1315" />
+      <edge source="symptoms" target="besafe" id="1316" />
+      <edge source="symptoms" target="flulike" id="1317" />
+      <edge source="symptoms" target="without" id="1318" />
+      <edge source="daily" target="even" id="1319" />
+      <edge source="daily" target="highest" id="1320" />
+      <edge source="daily" target="uk" id="1321" />
+      <edge source="daily" target="positivity" id="1322" />
+      <edge source="daily" target="thanks" id="1323" />
+      <edge source="daily" target="association" id="1324" />
+      <edge source="daily" target="record" id="1325" />
+      <edge source="daily" target="guernsey" id="1326" />
+      <edge source="even" target="routine" id="1327" />
+      <edge source="even" target="terrible" id="1328" />
+      <edge source="even" target="bsnlprideofindia" id="1329" />
+      <edge source="recovered" target="patient" id="1330" />
+      <edge source="recovered" target="people" id="1331" />
+      <edge source="recovered" target="plasma" id="1332" />
+      <edge source="need" target="plasma" id="1333" />
+      <edge source="need" target="blood" id="1334" />
+      <edge source="need" target="know" id="1335" />
+      <edge source="need" target="component" id="1336" />
+      <edge source="need" target="aug22" id="1337" />
+      <edge source="need" target="aug16" id="1338" />
+      <edge source="need" target="get" id="1339" />
+      <edge source="need" target="people" id="1340" />
+      <edge source="need" target="take" id="1341" />
+      <edge source="need" target="may" id="1342" />
+      <edge source="need" target="aug13" id="1343" />
+      <edge source="need" target="hyderabad" id="1344" />
+      <edge source="need" target="to" id="1345" />
+      <edge source="need" target="hour" id="1346" />
+      <edge source="plasma" target="ove" id="1347" />
+      <edge source="plasma" target="ave" id="1348" />
+      <edge source="plasma" target="therapy" id="1349" />
+      <edge source="plasma" target="bve" id="1350" />
+      <edge source="plasma" target="blood" id="1351" />
+      <edge source="plasma" target="convalescent" id="1352" />
+      <edge source="plasma" target="donation" id="1353" />
+      <edge source="plasma" target="abve" id="1354" />
+      <edge source="plasma" target="donate" id="1355" />
+      <edge source="plasma" target="donor" id="1356" />
+      <edge source="plasma" target="bank" id="1357" />
+      <edge source="district" target="reports" id="1358" />
+      <edge source="district" target="cuttack" id="1359" />
+      <edge source="district" target="ganjam" id="1360" />
+      <edge source="district" target="khurda" id="1361" />
+      <edge source="district" target="wise" id="1362" />
+      <edge source="reports" target="odisha" id="1363" />
+      <edge source="reports" target="highest" id="1364" />
+      <edge source="reports" target="rajasthan" id="1365" />
+      <edge source="reports" target="county" id="1366" />
+      <edge source="reports" target="biggest" id="1367" />
+      <edge source="reports" target="telangana" id="1368" />
+      <edge source="reports" target="korea" id="1369" />
+      <edge source="reports" target="delhi" id="1370" />
+      <edge source="reports" target="1320" id="1371" />
+      <edge source="reports" target="21" id="1372" />
+      <edge source="test" target="results" id="1373" />
+      <edge source="test" target="trace" id="1374" />
+      <edge source="test" target="antibody" id="1375" />
+      <edge source="test" target="rapid" id="1376" />
+      <edge source="test" target="saliva" id="1377" />
+      <edge source="test" target="tube" id="1378" />
+      <edge source="test" target="result" id="1379" />
+      <edge source="test" target="kits" id="1380" />
+      <edge source="test" target="home" id="1381" />
+      <edge source="test" target="ivf" id="1382" />
+      <edge source="test" target="nhs" id="1383" />
+      <edge source="indias" target="pushes" id="1384" />
+      <edge source="crosses" target="35" id="1385" />
+      <edge source="crosses" target="milestone" id="1386" />
+      <edge source="lockdown" target="complete" id="1387" />
+      <edge source="lockdown" target="restrictions" id="1388" />
+      <edge source="lockdown" target="imposed" id="1389" />
+      <edge source="lockdown" target="observed" id="1390" />
+      <edge source="lockdown" target="weekend" id="1391" />
+      <edge source="lockdown" target="measures" id="1392" />
+      <edge source="lockdown" target="since" id="1393" />
+      <edge source="protests" target="portland" id="1394" />
+      <edge source="protests" target="seattle" id="1395" />
+      <edge source="outbreak" target="latest" id="1396" />
+      <edge source="outbreak" target="since" id="1397" />
+      <edge source="case" target="fatality" id="1398" />
+      <edge source="case" target="count" id="1399" />
+      <edge source="zealand" target="among" id="1400" />
+      <edge source="novel" target="caused" id="1401" />
+      <edge source="novel" target="technology" id="1402" />
+      <edge source="post" target="office" id="1403" />
+      <edge source="state" target="rises" id="1404" />
+      <edge source="state" target="health" id="1405" />
+      <edge source="state" target="country" id="1406" />
+      <edge source="state" target="future" id="1407" />
+      <edge source="state" target="every" id="1408" />
+      <edge source="state" target="governments" id="1409" />
+      <edge source="state" target="govt" id="1410" />
+      <edge source="state" target="observes" id="1411" />
+      <edge source="state" target="police" id="1412" />
+      <edge source="face" target="masks" id="1413" />
+      <edge source="face" target="wearing" id="1414" />
+      <edge source="face" target="coverings" id="1415" />
+      <edge source="face" target="covering" id="1416" />
+      <edge source="face" target="shield" id="1417" />
+      <edge source="face" target="cloth" id="1418" />
+      <edge source="face" target="shields" id="1419" />
+      <edge source="public" target="health" id="1420" />
+      <edge source="public" target="transport" id="1421" />
+      <edge source="public" target="good" id="1422" />
+      <edge source="public" target="datasource" id="1423" />
+      <edge source="health" target="mental" id="1424" />
+      <edge source="health" target="minister" id="1425" />
+      <edge source="health" target="care" id="1426" />
+      <edge source="health" target="ministry" id="1427" />
+      <edge source="health" target="insurance" id="1428" />
+      <edge source="health" target="workers" id="1429" />
+      <edge source="health" target="officials" id="1430" />
+      <edge source="health" target="warning" id="1431" />
+      <edge source="health" target="hazard" id="1432" />
+      <edge source="health" target="union" id="1433" />
+      <edge source="health" target="department" id="1434" />
+      <edge source="health" target="wales" id="1435" />
+      <edge source="health" target="safety" id="1436" />
+      <edge source="health" target="world" id="1437" />
+      <edge source="health" target="england" id="1438" />
+      <edge source="health" target="issues" id="1439" />
+      <edge source="health" target="system" id="1440" />
+      <edge source="health" target="experts" id="1441" />
+      <edge source="health" target="invest" id="1442" />
+      <edge source="health" target="goals" id="1443" />
+      <edge source="health" target="inequalities" id="1444" />
+      <edge source="health" target="dept" id="1445" />
+      <edge source="health" target="services" id="1446" />
+      <edge source="health" target="organization" id="1447" />
+      <edge source="corona" target="wales" id="1448" />
+      <edge source="corona" target="virus" id="1449" />
+      <edge source="corona" target="guernsey" id="1450" />
+      <edge source="corona" target="scotland" id="1451" />
+      <edge source="response" target="update" id="1452" />
+      <edge source="wearing" target="masks" id="1453" />
+      <edge source="wearing" target="people" id="1454" />
+      <edge source="full" target="video" id="1455" />
+      <edge source="full" target="storm" id="1456" />
+      <edge source="video" target="gt" id="1457" />
+      <edge source="video" target="watch" id="1458" />
+      <edge source="video" target="via" id="1459" />
+      <edge source="video" target="viral" id="1460" />
+      <edge source="masks" target="mandatory" id="1461" />
+      <edge source="masks" target="cloth" id="1462" />
+      <edge source="masks" target="work" id="1463" />
+      <edge source="masks" target="without" id="1464" />
+      <edge source="around" target="world" id="1465" />
+      <edge source="around" target="people" id="1466" />
+      <edge source="world" target="across" id="1467" />
+      <edge source="world" target="first" id="1468" />
+      <edge source="world" target="country" id="1469" />
+      <edge source="world" target="rest" id="1470" />
+      <edge source="world" target="postcovid" id="1471" />
+      <edge source="world" target="average" id="1472" />
+      <edge source="world" target="record" id="1473" />
+      <edge source="hospital" target="call" id="1474" />
+      <edge source="hospital" target="blood" id="1475" />
+      <edge source="hospital" target="admitted" id="1476" />
+      <edge source="hospital" target="staff" id="1477" />
+      <edge source="hospital" target="private" id="1478" />
+      <edge source="call" target="18444455767" id="1479" />
+      <edge source="gt" target="30days30videos" id="1480" />
+      <edge source="30days30videos" target="messagetochristians" id="1481" />
+      <edge source="first" target="time" id="1482" />
+      <edge source="first" target="worlds" id="1483" />
+      <edge source="first" target="country" id="1484" />
+      <edge source="first" target="indiablooms" id="1485" />
+      <edge source="first" target="portal" id="1486" />
+      <edge source="first" target="identif" id="1487" />
+      <edge source="first" target="wave" id="1488" />
+      <edge source="first" target="sending" id="1489" />
+      <edge source="first" target="becomes" id="1490" />
+      <edge source="first" target="phase" id="1491" />
+      <edge source="first" target="half" id="1492" />
+      <edge source="first" target="get" id="1493" />
+      <edge source="first" target="uk" id="1494" />
+      <edge source="first" target="hiring" id="1495" />
+      <edge source="county" target="pima" id="1496" />
+      <edge source="county" target="la" id="1497" />
+      <edge source="confirmed" target="0800" id="1498" />
+      <edge source="time" target="every" id="1499" />
+      <edge source="time" target="since" id="1500" />
+      <edge source="time" target="good" id="1501" />
+      <edge source="19" target="million" id="1502" />
+      <edge source="get" target="well" id="1503" />
+      <edge source="get" target="back" id="1504" />
+      <edge source="get" target="sick" id="1505" />
+      <edge source="get" target="let" id="1506" />
+      <edge source="get" target="key" id="1507" />
+      <edge source="get" target="admitted" id="1508" />
+      <edge source="get" target="access" id="1509" />
+      <edge source="get" target="might" id="1510" />
+      <edge source="pima" target="arizona" id="1511" />
+      <edge source="chief" target="minister" id="1512" />
+      <edge source="chief" target="pradesh" id="1513" />
+      <edge source="chief" target="ministers" id="1514" />
+      <edge source="chief" target="former" id="1515" />
+      <edge source="chief" target="trust" id="1516" />
+      <edge source="chief" target="karnataka" id="1517" />
+      <edge source="minister" target="home" id="1518" />
+      <edge source="minister" target="prime" id="1519" />
+      <edge source="minister" target="union" id="1520" />
+      <edge source="minister" target="amit" id="1521" />
+      <edge source="minister" target="shivrajsinghchouhan" id="1522" />
+      <edge source="minister" target="said" id="1523" />
+      <edge source="madhya" target="pradesh" id="1524" />
+      <edge source="pradesh" target="andhra" id="1525" />
+      <edge source="pradesh" target="himachal" id="1526" />
+      <edge source="pradesh" target="cm" id="1527" />
+      <edge source="pradesh" target="uttar" id="1528" />
+      <edge source="pradesh" target="telangana" id="1529" />
+      <edge source="pradesh" target="government" id="1530" />
+      <edge source="update" target="ghana" id="1531" />
+      <edge source="update" target="avoid" id="1532" />
+      <edge source="update" target="latest" id="1533" />
+      <edge source="update" target="rajasthan" id="1534" />
+      <edge source="update" target="wipe" id="1535" />
+      <edge source="update" target="morning" id="1536" />
+      <edge source="good" target="morning" id="1537" />
+      <edge source="good" target="thing" id="1538" />
+      <edge source="white" target="house" id="1539" />
+      <edge source="via" target="coronavirusupdates" id="1540" />
+      <edge source="via" target="cc" id="1541" />
+      <edge source="via" target="petition" id="1542" />
+      <edge source="via" target="dombivli" id="1543" />
+      <edge source="infection" target="rates" id="1544" />
+      <edge source="infection" target="trend" id="1545" />
+      <edge source="infection" target="sarscov2" id="1546" />
+      <edge source="take" target="look" id="1547" />
+      <edge source="take" target="care" id="1548" />
+      <edge source="take" target="travellers" id="1549" />
+      <edge source="take" target="please" id="1550" />
+      <edge source="take" target="part" id="1551" />
+      <edge source="take" target="action" id="1552" />
+      <edge source="take" target="away" id="1553" />
+      <edge source="take" target="would" id="1554" />
+      <edge source="look" target="like" id="1555" />
+      <edge source="look" target="updated" id="1556" />
+      <edge source="look" target="latest" id="1557" />
+      <edge source="look" target="deserted" id="1558" />
+      <edge source="look" target="opportunity" id="1559" />
+      <edge source="look" target="technology" id="1560" />
+      <edge source="look" target="forward" id="1561" />
+      <edge source="uk" target="government" id="1562" />
+      <edge source="uk" target="associated" id="1563" />
+      <edge source="uk" target="economy" id="1564" />
+      <edge source="uk" target="across" id="1565" />
+      <edge source="uk" target="may" id="1566" />
+      <edge source="uk" target="see" id="1567" />
+      <edge source="normal" target="back" id="1568" />
+      <edge source="rises" target="to" id="1569" />
+      <edge source="vaccines" target="access" id="1570" />
+      <edge source="report" target="todays" id="1571" />
+      <edge source="report" target="says" id="1572" />
+      <edge source="report" target="830pm" id="1573" />
+      <edge source="boris" target="johnson" id="1574" />
+      <edge source="johnson" target="dominic" id="1575" />
+      <edge source="fitness" target="vegan" id="1576" />
+      <edge source="united" target="states" id="1577" />
+      <edge source="states" target="10" id="1578" />
+      <edge source="states" target="five" id="1579" />
+      <edge source="states" target="various" id="1580" />
+      <edge source="states" target="account" id="1581" />
+      <edge source="many" target="people" id="1582" />
+      <edge source="many" target="working" id="1583" />
+      <edge source="many" target="businesses" id="1584" />
+      <edge source="people" target="young" id="1585" />
+      <edge source="people" target="million" id="1586" />
+      <edge source="people" target="like" id="1587" />
+      <edge source="people" target="dying" id="1588" />
+      <edge source="people" target="die" id="1589" />
+      <edge source="people" target="infected" id="1590" />
+      <edge source="people" target="still" id="1591" />
+      <edge source="people" target="american" id="1592" />
+      <edge source="people" target="share" id="1593" />
+      <edge source="people" target="thousands" id="1594" />
+      <edge source="people" target="support" id="1595" />
+      <edge source="people" target="lakh" id="1596" />
+      <edge source="people" target="helping" id="1597" />
+      <edge source="people" target="without" id="1598" />
+      <edge source="people" target="living" id="1599" />
+      <edge source="people" target="including" id="1600" />
+      <edge source="people" target="arrested" id="1601" />
+      <edge source="people" target="believe" id="1602" />
+      <edge source="people" target="black" id="1603" />
+      <edge source="people" target="millions" id="1604" />
+      <edge source="records" target="highest" id="1605" />
+      <edge source="million" target="per" id="1606" />
+      <edge source="million" target="milestone" id="1607" />
+      <edge source="million" target="13" id="1608" />
+      <edge source="million" target="100" id="1609" />
+      <edge source="million" target="25" id="1610" />
+      <edge source="million" target="nearly" id="1611" />
+      <edge source="million" target="mark" id="1612" />
+      <edge source="million" target="doses" id="1613" />
+      <edge source="million" target="20" id="1614" />
+      <edge source="million" target="16" id="1615" />
+      <edge source="donald" target="president" id="1616" />
+      <edge source="highest" target="ever" id="1617" />
+      <edge source="secondpeak" target="secondwave" id="1618" />
+      <edge source="secondpeak" target="carehomeicide" id="1619" />
+      <edge source="secondpeak" target="borishasfaileduk" id="1620" />
+      <edge source="secondwave" target="coronavirusuk" id="1621" />
+      <edge source="odisha" target="ganjam" id="1622" />
+      <edge source="odisha" target="cuttack" id="1623" />
+      <edge source="odisha" target="govt" id="1624" />
+      <edge source="odisha" target="conducted" id="1625" />
+      <edge source="odisha" target="die" id="1626" />
+      <edge source="odisha" target="bignews" id="1627" />
+      <edge source="young" target="adults" id="1628" />
+      <edge source="young" target="children" id="1629" />
+      <edge source="back" target="school" id="1630" />
+      <edge source="back" target="go" id="1631" />
+      <edge source="back" target="work" id="1632" />
+      <edge source="back" target="come" id="1633" />
+      <edge source="back" target="going" id="1634" />
+      <edge source="back" target="coming" id="1635" />
+      <edge source="back" target="bounce" id="1636" />
+      <edge source="school" target="high" id="1637" />
+      <edge source="school" target="year" id="1638" />
+      <edge source="school" target="return" id="1639" />
+      <edge source="school" target="consider" id="1640" />
+      <edge source="school" target="experiences" id="1641" />
+      <edge source="school" target="fall" id="1642" />
+      <edge source="updated" target="guidelines" id="1643" />
+      <edge source="updated" target="latest" id="1644" />
+      <edge source="alert" target="portland" id="1645" />
+      <edge source="alert" target="man" id="1646" />
+      <edge source="alert" target="california" id="1647" />
+      <edge source="alert" target="protesters" id="1648" />
+      <edge source="alert" target="watch" id="1649" />
+      <edge source="alert" target="police" id="1650" />
+      <edge source="alert" target="la" id="1651" />
+      <edge source="alert" target="belarus" id="1652" />
+      <edge source="alert" target="latest" id="1653" />
+      <edge source="alert" target="los" id="1654" />
+      <edge source="alert" target="two" id="1655" />
+      <edge source="alert" target="thousands" id="1656" />
+      <edge source="hope" target="82" id="1657" />
+      <edge source="hope" target="find" id="1658" />
+      <edge source="blood" target="component" id="1659" />
+      <edge source="blood" target="type" id="1660" />
+      <edge source="recoveries" target="cross" id="1661" />
+      <edge source="gop" target="republican" id="1662" />
+      <edge source="lakh" target="mark" id="1663" />
+      <edge source="lakh" target="10" id="1664" />
+      <edge source="lakh" target="35" id="1665" />
+      <edge source="lakh" target="20" id="1666" />
+      <edge source="covidー19" target="voteblue" id="1667" />
+      <edge source="top" target="10" id="1668" />
+      <edge source="top" target="review" id="1669" />
+      <edge source="top" target="management" id="1670" />
+      <edge source="top" target="stories" id="1671" />
+      <edge source="10" target="developments" id="1672" />
+      <edge source="10" target="days" id="1673" />
+      <edge source="10" target="times" id="1674" />
+      <edge source="10" target="countries" id="1675" />
+      <edge source="home" target="stay" id="1676" />
+      <edge source="home" target="working" id="1677" />
+      <edge source="home" target="nursing" id="1678" />
+      <edge source="home" target="work" id="1679" />
+      <edge source="home" target="affairs" id="1680" />
+      <edge source="home" target="ministry" id="1681" />
+      <edge source="home" target="union" id="1682" />
+      <edge source="home" target="quarantine" id="1683" />
+      <edge source="home" target="die" id="1684" />
+      <edge source="home" target="staying" id="1685" />
+      <edge source="johns" target="hopkins" id="1686" />
+      <edge source="hopkins" target="csse" id="1687" />
+      <edge source="hopkins" target="university" id="1688" />
+      <edge source="care" target="intensive" id="1689" />
+      <edge source="care" target="homes" id="1690" />
+      <edge source="care" target="centre" id="1691" />
+      <edge source="care" target="child" id="1692" />
+      <edge source="care" target="center" id="1693" />
+      <edge source="care" target="doesnt" id="1694" />
+      <edge source="like" target="looks" id="1695" />
+      <edge source="like" target="would" id="1696" />
+      <edge source="like" target="seems" id="1697" />
+      <edge source="like" target="sounds" id="1698" />
+      <edge source="like" target="retweet" id="1699" />
+      <edge source="like" target="feel" id="1700" />
+      <edge source="like" target="feels" id="1701" />
+      <edge source="loved" target="ones" id="1702" />
+      <edge source="karnataka" target="cm" id="1703" />
+      <edge source="karnataka" target="former" id="1704" />
+      <edge source="cm" target="shivraj" id="1705" />
+      <edge source="cm" target="madhyapradesh" id="1706" />
+      <edge source="cm" target="siddaramaiah" id="1707" />
+      <edge source="cm" target="jharkhand" id="1708" />
+      <edge source="cm" target="bs" id="1709" />
+      <edge source="country" target="across" id="1710" />
+      <edge source="country" target="ri" id="1711" />
+      <edge source="country" target="become" id="1712" />
+      <edge source="country" target="facing" id="1713" />
+      <edge source="country" target="approve" id="1714" />
+      <edge source="mark" target="708" id="1715" />
+      <edge source="mark" target="lakhs" id="1716" />
+      <edge source="tamil" target="nadu" id="1717" />
+      <edge source="per" target="cent" id="1718" />
+      <edge source="per" target="100000" id="1719" />
+      <edge source="per" target="icmr" id="1720" />
+      <edge source="per" target="bignews" id="1721" />
+      <edge source="per" target="capita" id="1722" />
+      <edge source="per" target="month" id="1723" />
+      <edge source="pm" target="modi" id="1724" />
+      <edge source="pm" target="says" id="1725" />
+      <edge source="pm" target="narendra" id="1726" />
+      <edge source="pm" target="launch" id="1727" />
+      <edge source="pm" target="edt" id="1728" />
+      <edge source="pm" target="933" id="1729" />
+      <edge source="pm" target="stage" id="1730" />
+      <edge source="modi" target="narendra" id="1731" />
+      <edge source="modi" target="ji" id="1732" />
+      <edge source="virus" target="deadly" id="1733" />
+      <edge source="virus" target="chinese" id="1734" />
+      <edge source="dr" target="fauci" id="1735" />
+      <edge source="dr" target="randeep" id="1736" />
+      <edge source="fauci" target="says" id="1737" />
+      <edge source="fauci" target="anthony" id="1738" />
+      <edge source="south" target="korea" id="1739" />
+      <edge source="south" target="africa" id="1740" />
+      <edge source="korea" target="north" id="1741" />
+      <edge source="dominic" target="cummings" id="1742" />
+      <edge source="cummings" target="carehomeicide" id="1743" />
+      <edge source="stay" target="safe" id="1744" />
+      <edge source="stay" target="tuned" id="1745" />
+      <edge source="safe" target="everyone" id="1746" />
+      <edge source="safe" target="staying" id="1747" />
+      <edge source="latest" target="article" id="1748" />
+      <edge source="latest" target="edition" id="1749" />
+      <edge source="latest" target="blog" id="1750" />
+      <edge source="latest" target="british" id="1751" />
+      <edge source="latest" target="aug" id="1752" />
+      <edge source="latest" target="check" id="1753" />
+      <edge source="todays" target="statistics" id="1754" />
+      <edge source="todays" target="morning" id="1755" />
+      <edge source="todays" target="check" id="1756" />
+      <edge source="maharashtra" target="police" id="1757" />
+      <edge source="police" target="personnel" id="1758" />
+      <edge source="police" target="station" id="1759" />
+      <edge source="police" target="department" id="1760" />
+      <edge source="police" target="161" id="1761" />
+      <edge source="police" target="stand" id="1762" />
+      <edge source="police" target="officer" id="1763" />
+      <edge source="police" target="officers" id="1764" />
+      <edge source="every" target="american" id="1765" />
+      <edge source="every" target="person" id="1766" />
+      <edge source="every" target="year" id="1767" />
+      <edge source="every" target="2000month" id="1768" />
+      <edge source="infections" target="64553" id="1769" />
+      <edge source="infections" target="1007" id="1770" />
+      <edge source="july" target="26" id="1771" />
+      <edge source="july" target="26th" id="1772" />
+      <edge source="july" target="31" id="1773" />
+      <edge source="july" target="27th" id="1774" />
+      <edge source="july" target="25" id="1775" />
+      <edge source="july" target="25th" id="1776" />
+      <edge source="july" target="27" id="1777" />
+      <edge source="july" target="mohfw" id="1778" />
+      <edge source="week" target="one" id="1779" />
+      <edge source="week" target="next" id="1780" />
+      <edge source="know" target="want" id="1781" />
+      <edge source="know" target="knew" id="1782" />
+      <edge source="know" target="concerned" id="1783" />
+      <edge source="second" target="wave" id="1784" />
+      <edge source="wave" target="2nd" id="1785" />
+      <edge source="wave" target="salespeople" id="1786" />
+      <edge source="since" target="march" id="1787" />
+      <edge source="since" target="june" id="1788" />
+      <edge source="since" target="beginning" id="1789" />
+      <edge source="ministry" target="civil" id="1790" />
+      <edge source="conducted" target="60646" id="1791" />
+      <edge source="conducted" target="far" id="1792" />
+      <edge source="supreme" target="court" id="1793" />
+      <edge source="court" target="high" id="1794" />
+      <edge source="till" target="10am" id="1795" />
+      <edge source="till" target="rajasthan" id="1796" />
+      <edge source="till" target="8pm" id="1797" />
+      <edge source="till" target="1030" id="1798" />
+      <edge source="across" target="risen" id="1799" />
+      <edge source="across" target="globe" id="1800" />
+      <edge source="herd" target="immunity" id="1801" />
+      <edge source="personnel" target="deployed" id="1802" />
+      <edge source="personnel" target="found" id="1803" />
+      <edge source="supply" target="chain" id="1804" />
+      <edge source="supply" target="chains" id="1805" />
+      <edge source="days" target="100" id="1806" />
+      <edge source="days" target="without" id="1807" />
+      <edge source="days" target="doom" id="1808" />
+      <edge source="days" target="two" id="1809" />
+      <edge source="days" target="14" id="1810" />
+      <edge source="days" target="seven" id="1811" />
+      <edge source="days" target="consecutive" id="1812" />
+      <edge source="179200" target="watch" id="1813" />
+      <edge source="media" target="bulletin" id="1814" />
+      <edge source="amit" target="shah" id="1815" />
+      <edge source="west" target="bengal" id="1816" />
+      <edge source="save" target="lives" id="1817" />
+      <edge source="save" target="life" id="1818" />
+      <edge source="lives" target="matter" id="1819" />
+      <edge source="lives" target="black" id="1820" />
+      <edge source="lives" target="lost" id="1821" />
+      <edge source="lives" target="american" id="1822" />
+      <edge source="gon" target="na" id="1823" />
+      <edge source="na" target="wan" id="1824" />
+      <edge source="watch" target="172606" id="1825" />
+      <edge source="watch" target="186855" id="1826" />
+      <edge source="watch" target="170415" id="1827" />
+      <edge source="watch" target="173128" id="1828" />
+      <edge source="watch" target="167749" id="1829" />
+      <edge source="watch" target="please" id="1830" />
+      <edge source="watch" target="must" id="1831" />
+      <edge source="watch" target="169131" id="1832" />
+      <edge source="watch" target="166192" id="1833" />
+      <edge source="watch" target="165070" id="1834" />
+      <edge source="watch" target="165074" id="1835" />
+      <edge source="growth" target="7days" id="1836" />
+      <edge source="still" target="office" id="1837" />
+      <edge source="still" target="government" id="1838" />
+      <edge source="still" target="want" id="1839" />
+      <edge source="still" target="thinks" id="1840" />
+      <edge source="government" target="incompetent" id="1841" />
+      <edge source="government" target="scottish" id="1842" />
+      <edge source="type" target="opositive" id="1843" />
+      <edge source="may" target="lord" id="1844" />
+      <edge source="portland" target="protesters" id="1845" />
+      <edge source="portland" target="protest" id="1846" />
+      <edge source="make" target="sure" id="1847" />
+      <edge source="make" target="difference" id="1848" />
+      <edge source="make" target="together" id="1849" />
+      <edge source="make" target="could" id="1850" />
+      <edge source="singh" target="chouhan" id="1851" />
+      <edge source="singh" target="shivraj" id="1852" />
+      <edge source="chouhan" target="says" id="1853" />
+      <edge source="go" target="ahead" id="1854" />
+      <edge source="go" target="100" id="1855" />
+      <edge source="go" target="away" id="1856" />
+      <edge source="go" target="round" id="1857" />
+      <edge source="go" target="earth" id="1858" />
+      <edge source="local" target="contacts" id="1859" />
+      <edge source="local" target="authorities" id="1860" />
+      <edge source="times" target="hyderabad" id="1861" />
+      <edge source="times" target="epaper" id="1862" />
+      <edge source="times" target="hard" id="1863" />
+      <edge source="times" target="infectious" id="1864" />
+      <edge source="times" target="higher" id="1865" />
+      <edge source="times" target="hindustan" id="1866" />
+      <edge source="times" target="challenging" id="1867" />
+      <edge source="wash" target="hands" id="1868" />
+      <edge source="100000" target="residents" id="1869" />
+      <edge source="two" target="weeks" id="1870" />
+      <edge source="two" target="years" id="1871" />
+      <edge source="two" target="months" id="1872" />
+      <edge source="weeks" target="three" id="1873" />
+      <edge source="weeks" target="ago" id="1874" />
+      <edge source="weeks" target="four" id="1875" />
+      <edge source="relief" target="fund" id="1876" />
+      <edge source="relief" target="bill" id="1877" />
+      <edge source="relief" target="community" id="1878" />
+      <edge source="insurance" target="starhealthinsurance" id="1879" />
+      <edge source="insurance" target="9845684754" id="1880" />
+      <edge source="insurance" target="policy" id="1881" />
+      <edge source="workers" target="healthcare" id="1882" />
+      <edge source="workers" target="essential" id="1883" />
+      <edge source="workers" target="frontline" id="1884" />
+      <edge source="college" target="football" id="1885" />
+      <edge source="college" target="collegetalk" id="1886" />
+      <edge source="college" target="students" id="1887" />
+      <edge source="clinical" target="trials" id="1888" />
+      <edge source="clinical" target="trial" id="1889" />
+      <edge source="clinical" target="rigged" id="1890" />
+      <edge source="trials" target="human" id="1891" />
+      <edge source="trials" target="phase" id="1892" />
+      <edge source="brother" target="wondering" id="1893" />
+      <edge source="republican" target="democrat" id="1894" />
+      <edge source="bill" target="gates" id="1895" />
+      <edge source="work" target="connection" id="1896" />
+      <edge source="work" target="return" id="1897" />
+      <edge source="work" target="bridge" id="1898" />
+      <edge source="work" target="together" id="1899" />
+      <edge source="work" target="future" id="1900" />
+      <edge source="data" target="shows" id="1901" />
+      <edge source="treat" target="used" id="1902" />
+      <edge source="complete" target="observes" id="1903" />
+      <edge source="follow" target="please" id="1904" />
+      <edge source="follow" target="business" id="1905" />
+      <edge source="civil" target="aviation" id="1906" />
+      <edge source="aviation" target="attention" id="1907" />
+      <edge source="aviation" target="airline" id="1908" />
+      <edge source="increase" target="las" id="1909" />
+      <edge source="telangana" target="dated" id="1910" />
+      <edge source="telangana" target="bignews" id="1911" />
+      <edge source="said" target="saturday" id="1912" />
+      <edge source="northern" target="ireland" id="1913" />
+      <edge source="ireland" target="announced" id="1914" />
+      <edge source="putin" target="says" id="1915" />
+      <edge source="putin" target="vladimir" id="1916" />
+      <edge source="says" target="russia" id="1917" />
+      <edge source="says" target="daughter" id="1918" />
+      <edge source="one" target="thing" id="1919" />
+      <edge source="one" target="lowest" id="1920" />
+      <edge source="one" target="year" id="1921" />
+      <edge source="los" target="angeles" id="1922" />
+      <edge source="disease" target="caused" id="1923" />
+      <edge source="disease" target="infectious" id="1924" />
+      <edge source="facility" target="vijayawada" id="1925" />
+      <edge source="please" target="retweet" id="1926" />
+      <edge source="please" target="share" id="1927" />
+      <edge source="please" target="tell" id="1928" />
+      <edge source="shows" target="study" id="1929" />
+      <edge source="guidelines" target="air" id="1930" />
+      <edge source="air" target="passenge" id="1931" />
+      <edge source="air" target="pollution" id="1932" />
+      <edge source="air" target="passeng" id="1933" />
+      <edge source="air" target="travel" id="1934" />
+      <edge source="hand" target="sanitizer" id="1935" />
+      <edge source="sanitizer" target="surfaces" id="1936" />
+      <edge source="sanitizer" target="besafe" id="1937" />
+      <edge source="task" target="force" id="1938" />
+      <edge source="matter" target="protest" id="1939" />
+      <edge source="study" target="finds" id="1940" />
+      <edge source="study" target="identifies" id="1941" />
+      <edge source="study" target="suggests" id="1942" />
+      <edge source="nyc" target="psychotherapy" id="1943" />
+      <edge source="psychotherapy" target="blog" id="1944" />
+      <edge source="immune" target="system" id="1945" />
+      <edge source="immune" target="almost" id="1946" />
+      <edge source="status" target="bulletin" id="1947" />
+      <edge source="steelguru" target="link" id="1948" />
+      <edge source="link" target="following" id="1949" />
+      <edge source="link" target="click" id="1950" />
+      <edge source="looking" target="forward" id="1951" />
+      <edge source="looking" target="reconnect" id="1952" />
+      <edge source="looking" target="might" id="1953" />
+      <edge source="trial" target="phase" id="1954" />
+      <edge source="cause" target="releasing" id="1955" />
+      <edge source="children" target="families" id="1956" />
+      <edge source="children" target="97000" id="1957" />
+      <edge source="contact" target="tracing" id="1958" />
+      <edge source="contact" target="avoid" id="1959" />
+      <edge source="contact" target="persons" id="1960" />
+      <edge source="rajasthan" target="bignews" id="1961" />
+      <edge source="rajasthan" target="royals" id="1962" />
+      <edge source="protect" target="likely" id="1963" />
+      <edge source="protect" target="year" id="1964" />
+      <edge source="protect" target="others" id="1965" />
+      <edge source="made" target="available" id="1966" />
+      <edge source="months" target="ago" id="1967" />
+      <edge source="months" target="six" id="1968" />
+      <edge source="months" target="past" id="1969" />
+      <edge source="months" target="five" id="1970" />
+      <edge source="passed" target="away" id="1971" />
+      <edge source="away" target="passes" id="1972" />
+      <edge source="away" target="gone" id="1973" />
+      <edge source="ago" target="years" id="1974" />
+      <edge source="safety" target="vacations" id="1975" />
+      <edge source="safety" target="measures" id="1976" />
+      <edge source="safety" target="confidence" id="1977" />
+      <edge source="yesterday" target="indian" id="1978" />
+      <edge source="morning" target="newspaper" id="1979" />
+      <edge source="morning" target="keep" id="1980" />
+      <edge source="morning" target="sunday" id="1981" />
+      <edge source="research" target="medical" id="1982" />
+      <edge source="attention" target="travellers" id="1983" />
+      <edge source="3rd" target="line" id="1984" />
+      <edge source="3rd" target="bhadraknergundi" id="1985" />
+      <edge source="line" target="dist" id="1986" />
+      <edge source="wearamask" target="enough" id="1987" />
+      <edge source="wearamask" target="challenge" id="1988" />
+      <edge source="found" target="survey" id="1989" />
+      <edge source="former" target="jharkhand" id="1990" />
+      <edge source="experts" target="say" id="1991" />
+      <edge source="experts" target="medical" id="1992" />
+      <edge source="working" target="remote" id="1993" />
+      <edge source="working" target="together" id="1994" />
+      <edge source="fielding" target="coach" id="1995" />
+      <edge source="dist" target="jajpurodisha" id="1996" />
+      <edge source="bhadraknergundi" target="connection" id="1997" />
+      <edge source="spanish" target="flu" id="1998" />
+      <edge source="flu" target="season" id="1999" />
+      <edge source="flu" target="shot" id="2000" />
+      <edge source="flu" target="1918" id="2001" />
+      <edge source="ram" target="temple" id="2002" />
+      <edge source="temple" target="trust" id="2003" />
+      <edge source="temple" target="iskcon" id="2004" />
+      <edge source="democrat" target="democrats" id="2005" />
+      <edge source="kindly" target="refer" id="2006" />
+      <edge source="refer" target="following" id="2007" />
+      <edge source="schools" target="reopen" id="2008" />
+      <edge source="schools" target="reopening" id="2009" />
+      <edge source="schools" target="open" id="2010" />
+      <edge source="schools" target="consider" id="2011" />
+      <edge source="schools" target="opening" id="2012" />
+      <edge source="schools" target="suppor" id="2013" />
+      <edge source="etimes" target="movie" id="2014" />
+      <edge source="etimes" target="head" id="2015" />
+      <edge source="used" target="hotel" id="2016" />
+      <edge source="epaper" target="head" id="2017" />
+      <edge source="head" target="trust" id="2018" />
+      <edge source="enough" target="enough" id="2019" />
+      <edge source="deadly" target="victims" id="2020" />
+      <edge source="remote" target="learning" id="2021" />
+      <edge source="free" target="webinar" id="2022" />
+      <edge source="free" target="technology" id="2023" />
+      <edge source="check" target="hyderabad" id="2024" />
+      <edge source="check" target="ids" id="2025" />
+      <edge source="check" target="out" id="2026" />
+      <edge source="vast" target="majority" id="2027" />
+      <edge source="vast" target="9999" id="2028" />
+      <edge source="want" target="hear" id="2029" />
+      <edge source="well" target="soon" id="2030" />
+      <edge source="well" target="done" id="2031" />
+      <edge source="restrictions" target="travel" id="2032" />
+      <edge source="high" target="record" id="2033" />
+      <edge source="high" target="throughput" id="2034" />
+      <edge source="hazard" target="borisvoteofnoconfidence" id="2035" />
+      <edge source="borisvoteofnoconfidence" target="borishasfaileduk" id="2036" />
+      <edge source="got" target="covered" id="2037" />
+      <edge source="got" target="flight" id="2038" />
+      <edge source="got" target="ta" id="2039" />
+      <edge source="put" target="place" id="2040" />
+      <edge source="could" target="drugs" id="2041" />
+      <edge source="nursing" target="homes" id="2042" />
+      <edge source="nursing" target="texas" id="2043" />
+      <edge source="return" target="travelers" id="2044" />
+      <edge source="gopal" target="das" id="2045" />
+      <edge source="gopal" target="nritya" id="2046" />
+      <edge source="das" target="samaresh" id="2047" />
+      <edge source="sign" target="petition" id="2048" />
+      <edge source="end" target="year" id="2049" />
+      <edge source="end" target="sight" id="2050" />
+      <edge source="cross" target="14" id="2051" />
+      <edge source="ganesh" target="chaturthi" id="2052" />
+      <edge source="ganesh" target="happy" id="2053" />
+      <edge source="doctors" target="nurses" id="2054" />
+      <edge source="management" target="strategies" id="2055" />
+      <edge source="management" target="digital" id="2056" />
+      <edge source="troubles" target="song" id="2057" />
+      <edge source="meditate" target="solutions" id="2058" />
+      <edge source="meditate" target="produced" id="2059" />
+      <edge source="webinar" target="series" id="2060" />
+      <edge source="webinar" target="brought" id="2061" />
+      <edge source="hit" target="worst" id="2062" />
+      <edge source="oxford" target="university" id="2063" />
+      <edge source="oxford" target="june" id="2064" />
+      <edge source="university" target="astrazeneca" id="2065" />
+      <edge source="open" target="letter" id="2066" />
+      <edge source="starhealthinsurance" target="9845684754" id="2067" />
+      <edge source="song" target="produced" id="2068" />
+      <edge source="community" target="responsive" id="2069" />
+      <edge source="trend" target="datasource" id="2070" />
+      <edge source="increased" target="6423" id="2071" />
+      <edge source="increased" target="6392" id="2072" />
+      <edge source="private" target="hospitals" id="2073" />
+      <edge source="year" target="next" id="2074" />
+      <edge source="year" target="old" id="2075" />
+      <edge source="next" target="month" id="2076" />
+      <edge source="source" target="worldometer" id="2077" />
+      <edge source="avoid" target="capturing" id="2078" />
+      <edge source="avoid" target="mrna1273" id="2079" />
+      <edge source="english" target="las" id="2080" />
+      <edge source="small" target="businesses" id="2081" />
+      <edge source="small" target="support" id="2082" />
+      <edge source="small" target="business" id="2083" />
+      <edge source="years" target="30" id="2084" />
+      <edge source="serum" target="institute" id="2085" />
+      <edge source="anyone" target="else" id="2086" />
+      <edge source="support" target="generous" id="2087" />
+      <edge source="support" target="commercial" id="2088" />
+      <edge source="support" target="salespeople" id="2089" />
+      <edge source="important" target="ever" id="2090" />
+      <edge source="ill" target="sending" id="2091" />
+      <edge source="think" target="tank" id="2092" />
+      <edge source="lord" target="ganesha" id="2093" />
+      <edge source="routine" target="newspaper" id="2094" />
+      <edge source="rapid" target="antigen" id="2095" />
+      <edge source="family" target="members" id="2096" />
+      <edge source="family" target="invest" id="2097" />
+      <edge source="family" target="safeguard" id="2098" />
+      <edge source="family" target="welfare" id="2099" />
+      <edge source="family" target="essentia" id="2100" />
+      <edge source="family" target="hygiene" id="2101" />
+      <edge source="members" target="staff" id="2102" />
+      <edge source="difference" target="generous" id="2103" />
+      <edge source="nritya" target="mahant" id="2104" />
+      <edge source="portal" target="digital" id="2105" />
+      <edge source="fund" target="rolling" id="2106" />
+      <edge source="fund" target="challenge" id="2107" />
+      <edge source="record" target="hits" id="2108" />
+      <edge source="result" target="direct" id="2109" />
+      <edge source="keep" target="newsmobile" id="2110" />
+      <edge source="right" target="way" id="2111" />
+      <edge source="american" target="moneyforthepeople" id="2112" />
+      <edge source="must" target="never" id="2113" />
+      <edge source="must" target="things" id="2114" />
+      <edge source="must" target="change" id="2115" />
+      <edge source="never" target="socialdistancing" id="2116" />
+      <edge source="fire" target="broke" id="2117" />
+      <edge source="fire" target="accident" id="2118" />
+      <edge source="fire" target="killed" id="2119" />
+      <edge source="putins" target="daughter" id="2120" />
+      <edge source="daughter" target="inoculated" id="2121" />
+      <edge source="daughter" target="vaccinated" id="2122" />
+      <edge source="daughter" target="gets" id="2123" />
+      <edge source="अन" target="तह" id="2124" />
+      <edge source="तह" target="गड" id="2125" />
+      <edge source="गड" target="bsnlprideofindia" id="2126" />
+      <edge source="use" target="emergency" id="2127" />
+      <edge source="travelers" target="favorite" id="2128" />
+      <edge source="favorite" target="vacations" id="2129" />
+      <edge source="way" target="long" id="2130" />
+      <edge source="yediyurappa" target="bs" id="2131" />
+      <edge source="situations" target="terrible" id="2132" />
+      <edge source="things" target="alan" id="2133" />
+      <edge source="things" target="unprecedented" id="2134" />
+      <edge source="long" target="term" id="2135" />
+      <edge source="leader" target="opposition" id="2136" />
+      <edge source="positives" target="false" id="2137" />
+      <edge source="president" target="vladimir" id="2138" />
+      <edge source="president" target="vice" id="2139" />
+      <edge source="president" target="russian" id="2140" />
+      <edge source="lakhs" target="14" id="2141" />
+      <edge source="recoveriesdeaths" target="ratio" id="2142" />
+      <edge source="nhs" target="england" id="2143" />
+      <edge source="socialdistancing" target="dominicummimgs" id="2144" />
+      <edge source="additional" target="deat" id="2145" />
+      <edge source="lost" target="jobs" id="2146" />
+      <edge source="ids" target="commuters" id="2147" />
+      <edge source="icu" target="beds" id="2148" />
+      <edge source="office" target="havent" id="2149" />
+      <edge source="technology" target="technews" id="2150" />
+      <edge source="russia" target="becomes" id="2151" />
+      <edge source="russia" target="approves" id="2152" />
+      <edge source="russia" target="announces" id="2153" />
+      <edge source="russia" target="registered" id="2154" />
+      <edge source="russia" target="registers" id="2155" />
+      <edge source="share" target="experiences" id="2156" />
+      <edge source="economic" target="upi" id="2157" />
+      <edge source="economic" target="banking" id="2158" />
+      <edge source="bsnl" target="staff" id="2159" />
+      <edge source="staff" target="medical" id="2160" />
+      <edge source="staff" target="provision" id="2161" />
+      <edge source="bjp" target="mp" id="2162" />
+      <edge source="bjp" target="delegation" id="2163" />
+      <edge source="become" target="victims" id="2164" />
+      <edge source="effects" target="side" id="2165" />
+      <edge source="jajpurodisha" target="06" id="2166" />
+      <edge source="change" target="climate" id="2167" />
+      <edge source="excess" target="9999" id="2168" />
+      <edge source="plandemic" target="agenda21" id="2169" />
+      <edge source="agenda21" target="id2020" id="2170" />
+      <edge source="light" target="tribute" id="2171" />
+      <edge source="kind" target="wondering" id="2172" />
+      <edge source="digital" target="transformation" id="2173" />
+      <edge source="nutritious" target="food" id="2174" />
+      <edge source="nutritious" target="distributed" id="2175" />
+      <edge source="china" target="excl" id="2176" />
+      <edge source="china" target="grants" id="2177" />
+      <edge source="digest" target="newsmobile" id="2178" />
+      <edge source="network" target="values" id="2179" />
+      <edge source="network" target="reconnect" id="2180" />
+      <edge source="online" target="classes" id="2181" />
+      <edge source="activity" target="bridge" id="2182" />
+      <edge source="utterly" target="incompetent" id="2183" />
+      <edge source="incompetent" target="equally" id="2184" />
+      <edge source="lab" target="dombivli" id="2185" />
+      <edge source="16" target="june" id="2186" />
+      <edge source="21" target="existing" id="2187" />
+      <edge source="1000" target="tops" id="2188" />
+      <edge source="sunday" target="announced" id="2189" />
+      <edge source="bay" target="area" id="2190" />
+      <edge source="samaresh" target="mla" id="2191" />
+      <edge source="sri" target="lanka" id="2192" />
+      <edge source="business" target="leaders" id="2193" />
+      <edge source="business" target="standard" id="2194" />
+      <edge source="shared" target="stage" id="2195" />
+      <edge source="see" target="great" id="2196" />
+      <edge source="see" target="much" id="2197" />
+      <edge source="indigenous" target="peoples" id="2198" />
+      <edge source="great" target="job" id="2199" />
+      <edge source="existing" target="drugs" id="2200" />
+      <edge source="hotel" target="vijayawada" id="2201" />
+      <edge source="deserted" target="streets" id="2202" />
+      <edge source="deserted" target="shops" id="2203" />
+      <edge source="hong" target="kong" id="2204" />
+      <edge source="herman" target="cain" id="2205" />
+      <edge source="executive" target="orders" id="2206" />
+      <edge source="excl" target="hongkong" id="2207" />
+      <edge source="students" target="future" id="2208" />
+      <edge source="realtime" target="mapping" id="2209" />
+      <edge source="realtime" target="edt" id="2210" />
+      <edge source="returnees" target="rly" id="2211" />
+      <edge source="returnees" target="migrant" id="2212" />
+      <edge source="rly" target="works" id="2213" />
+      <edge source="science" target="systems" id="2214" />
+      <edge source="science" target="engineering" id="2215" />
+      <edge source="fall" target="worst" id="2216" />
+      <edge source="antigen" target="54243" id="2217" />
+      <edge source="antigen" target="7054" id="2218" />
+      <edge source="measures" target="taken" id="2219" />
+      <edge source="measures" target="preventive" id="2220" />
+      <edge source="safeguard" target="key" id="2221" />
+      <edge source="announces" target="hiring" id="2222" />
+      <edge source="announces" target="lexagene" id="2223" />
+      <edge source="works" target="garibkalyanrojgaryojana" id="2224" />
+      <edge source="randeep" target="guleria" id="2225" />
+      <edge source="guleria" target="aiims" id="2226" />
+      <edge source="yet" target="another" id="2227" />
+      <edge source="fintech" target="infin" id="2228" />
+      <edge source="infin" target="ai" id="2229" />
+      <edge source="quarantine" target="list" id="2230" />
+      <edge source="quarantine" target="rules" id="2231" />
+      <edge source="06" target="mand" id="2232" />
+      <edge source="press" target="conference" id="2233" />
+      <edge source="hongkong" target="macau" id="2234" />
+      <edge source="posed" target="challenges" id="2235" />
+      <edge source="poll" target="strategies" id="2236" />
+      <edge source="poll" target="polling" id="2237" />
+      <edge source="poll" target="polls" id="2238" />
+      <edge source="trafalgar" target="square" id="2239" />
+      <edge source="give" target="2000month" id="2240" />
+      <edge source="ai" target="banking" id="2241" />
+      <edge source="ai" target="technews" id="2242" />
+      <edge source="aiims" target="director" id="2243" />
+      <edge source="virtual" target="events" id="2244" />
+      <edge source="virtual" target="meeting" id="2245" />
+      <edge source="ensuring" target="engagement" id="2246" />
+      <edge source="engagement" target="migrant" id="2247" />
+      <edge source="uddhav" target="thackeray" id="2248" />
+      <edge source="enroll" target="meritnation" id="2249" />
+      <edge source="havent" target="they" id="2250" />
+      <edge source="grocery" target="store" id="2251" />
+      <edge source="upi" target="p2p" id="2252" />
+      <edge source="soren" target="wife" id="2253" />
+      <edge source="soren" target="shibu" id="2254" />
+      <edge source="center" target="baby" id="2255" />
+      <edge source="center" target="systems" id="2256" />
+      <edge source="center" target="information" id="2257" />
+      <edge source="rtpcr" target="7054" id="2258" />
+      <edge source="tube" target="baby" id="2259" />
+      <edge source="visit" target="orfs" id="2260" />
+      <edge source="visit" target="information" id="2261" />
+      <edge source="visit" target="indiafightscoronavirus" id="2262" />
+      <edge source="orfs" target="covidtracker" id="2263" />
+      <edge source="54243" target="truenat" id="2264" />
+      <edge source="statewise" target="distributio" id="2265" />
+      <edge source="statewise" target="covidtracker" id="2266" />
+      <edge source="lessons" target="learned" id="2267" />
+      <edge source="mla" target="tmc" id="2268" />
+      <edge source="national" target="plan" id="2269" />
+      <edge source="indiafightscoronavirus" target="dailyupdates" id="2270" />
+      <edge source="conspiracy" target="theory" id="2271" />
+      <edge source="internship" target="program" id="2272" />
+      <edge source="might" target="able" id="2273" />
+      <edge source="migrants" target="on" id="2274" />
+      <edge source="mailin" target="voting" id="2275" />
+      <edge source="epidemic" target="giving" id="2276" />
+      <edge source="bad" target="cold" id="2277" />
+      <edge source="unprecedented" target="lies" id="2278" />
+      <edge source="makes" target="sense" id="2279" />
+      <edge source="sense" target="common" id="2280" />
+      <edge source="sense" target="smell" id="2281" />
+      <edge source="god" target="bless" id="2282" />
+      <edge source="moderna" target="rigged" id="2283" />
+      <edge source="association" target="landlord" id="2284" />
+      <edge source="offer" target="prayers" id="2285" />
+      <edge source="surfaces" target="exposed" id="2286" />
+      <edge source="manoj" target="tiwari" id="2287" />
+      <edge source="swarna" target="palace" id="2288" />
+      <edge source="wand" target="sanitiser" id="2289" />
+      <edge source="flulike" target="persons" id="2290" />
+      <edge source="landlord" target="british" id="2291" />
+      <edge source="jobless" target="aid" id="2292" />
+      <edge source="gets" target="vaccinated" id="2293" />
+      <edge source="federal" target="agents" id="2294" />
+      <edge source="kharagpur" target="researchers" id="2295" />
+      <edge source="kharagpur" target="iit" id="2296" />
+      <edge source="researchers" target="claim" id="2297" />
+      <edge source="wipe" target="disinfect" id="2298" />
+      <edge source="disinfect" target="phone" id="2299" />
+      <edge source="vaishno" target="devi" id="2300" />
+      <edge source="82" target="truenat" id="2301" />
+      <edge source="tweet" target="twitterpolls" id="2302" />
+      <edge source="tweet" target="twitterpoll" id="2303" />
+      <edge source="twitterpoll" target="polling" id="2304" />
+      <edge source="evidence" target="gavin" id="2305" />
+      <edge source="p2p" target="finance" id="2306" />
+      <edge source="jammu" target="kashmir" id="2307" />
+      <edge source="lies" target="deception" id="2308" />
+      <edge source="deception" target="charlatans" id="2309" />
+      <edge source="foudnation" target="colorado" id="2310" />
+      <edge source="50000" target="delta" id="2311" />
+      <edge source="50000" target="grantalert" id="2312" />
+      <edge source="delta" target="dental" id="2313" />
+      <edge source="ex" target="gratia" id="2314" />
+      <edge source="furlough" target="scheme" id="2315" />
+      <edge source="rolling" target="thr" id="2316" />
+      <edge source="highly" target="contagious" id="2317" />
+      <edge source="shops" target="closed" id="2318" />
+      <edge source="nirmala" target="sitharaman" id="2319" />
+      <edge source="colorado" target="dental" id="2320" />
+      <edge source="remain" target="closed" id="2321" />
+      <edge source="nfl" target="players" id="2322" />
+      <edge source="charlatans" target="bogusboris" id="2323" />
+      <edge source="pay" target="cuts" id="2324" />
+      <edge source="depression" target="anxiety" id="2325" />
+      <edge source="postal" target="service" id="2326" />
+      <edge source="individuals" target="served" id="2327" />
+      <edge source="municipal" target="corporation" id="2328" />
+      <edge source="happy" target="birthday" id="2329" />
+      <edge source="hanuman" target="chalisa" id="2330" />
+      <edge source="shares" target="thoughts" id="2331" />
+      <edge source="sore" target="throat" id="2332" />
+      <edge source="staysafe" target="sanitize" id="2333" />
+      <edge source="doubling" target="period" id="2334" />
+      <edge source="dishant" target="yagnik" id="2335" />
+      <edge source="chicken" target="wings" id="2336" />
+      <edge source="nevada" target="church" id="2337" />
+      <edge source="rural" target="areas" id="2338" />
+    </edges>
+  </graph>
+</gexf>
